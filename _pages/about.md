@@ -21,7 +21,7 @@ My research interests lie in the interface of Machine Learning and Information R
 * B.S. in Information and Computational Science, Zhengzhou University, 2013 - 2017
 
 ## Work Experience
-* ETSY, NYC, NY
+* Etsy, NYC, NY
   * Applied Scientist Intern,  May 2021 - Aug. 2021 (expected)
 * Alibaba, Remote
   * Research Intern,  May 2020 - Aug. 2020
