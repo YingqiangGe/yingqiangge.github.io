@@ -46,9 +46,9 @@ My research interests lie in the interface of Machine Learning and Information R
   
 ## Awards
 * SIGIR Student Travel Grant, 2021
-*Outstanding Research Internship of Alibaba Group, 2020
-*Fellowship of Rutgers University, 2020 (2%)
-*Fellowship of Rutgers University, 2019 (2%)
-*Outstanding Publications Award of Rutgers University, 2019
-*Outstanding MS Project Award of Rutgers University, 2019
-*Scholarship of Zhengzhou University, 2015/2016/2017
+* Outstanding Research Internship of Alibaba Group, 2020
+* Fellowship of Rutgers University, 2020 (2%)
+* Fellowship of Rutgers University, 2019 (2%)
+* Outstanding Publications Award of Rutgers University, 2019
+* Outstanding MS Project Award of Rutgers University, 2019
+* Scholarship of Zhengzhou University, 2015/2016/2017
