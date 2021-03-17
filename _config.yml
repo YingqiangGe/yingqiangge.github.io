@@ -85,13 +85,13 @@ author:
   bio              : |
     PhD Student, <br>
     WISE Lab, <br>
-    Computer Science Department, <br>
+    CS Department, <br>
     Rutgers, the State University of New Jersey
   location         : "NJ, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=5BrSdkUAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "yingqiang.ge@rutgers.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yingqiang-ge-29478b152/"
   orcid            :
   pinterest        :
   soundcloud       :
