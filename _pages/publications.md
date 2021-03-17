@@ -61,7 +61,7 @@ Zuohui Fu, Yikun Xian, Shijie Geng, Yingqiang Ge, Yuting Wang, Xin Dong, Guang W
 ## 2019
 **Maximizing MarginalUtility per Dollar for Economic Recommendation**  
 Yingqiang Ge, Shuyuan Xu, Shuchang Liu, Shijie Geng, Zuohui Fu and Yongfeng Zhang.
-*In Proceedings of the Web Conference 2021, April 19 - April 23, 2021, Ljubljana, Slovenia. (**WWW 19'**).*
+*In Proceedings of the Web Conference 2019, May 13 - 17, 2019, San Francisco, USA. (**WWW 19'**).*
 [[paper](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313725)]
 
 **sharedCharging: Data-DrivenShared Charging for Large-Scale Heterogeneous Electric Vehicle Fleets**  
