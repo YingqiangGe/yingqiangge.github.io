@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yingqiang Ge"
+title: "Yingqiang Ge (葛英强)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -20,7 +20,7 @@ My research interests lie in the interface of Machine Learning and Information R
 ## Education
 * Ph.D in Computer Science, Rutgers University, 2019 - 2023 (expected)
 * M.S. in Computer Science, Rutgers University, 2017 - 2019
-* B.S. in Information and Computational Science, Zhengzhou University, 2013 - 2017
+* B.S. in Mathematics, Zhengzhou University, 2013 - 2017
 
 ## Work Experience
 * Etsy, NYC, NY
