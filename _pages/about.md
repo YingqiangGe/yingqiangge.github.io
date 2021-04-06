@@ -54,3 +54,6 @@ My research interests lie in the interface of Machine Learning and Information R
 * Outstanding Publications Award of Rutgers University, 2019
 * Outstanding MS Project Award of Rutgers University, 2019
 * Scholarship of Zhengzhou University, 2015/2016/2017
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1rCnpCekKUrfKHyfSXxsKj7j_eK6DIUn7r2WYD7VX88&cl=ffffff&w=a"></script>
