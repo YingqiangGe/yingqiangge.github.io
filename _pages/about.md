@@ -33,7 +33,7 @@ My research interests lie in the interface of Machine Learning and Information R
 ## Academic Service
 * PC Member & Reviewer
   * Journal: TOIS 20'
-  * Conference: IJCAI 21', RecSys 20', AAAI 20'
+  * Conference: SIGIR 21', IJCAI 21', RecSys 20', AAAI 20'
   
   
 <!-- ## Tutorial
