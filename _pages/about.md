@@ -11,7 +11,7 @@ redirect_from:
 ## About Me
 Hi there, welcome to my homepage.
 
-Currently, I'm a second-year PhD student in Computer Science Department at Rutgers University, New Brunswick, NJ. I am fortunate to have [Prof. Yongfeng Zhang](http://yongfeng.me/) as my supervisor. 
+Currently, I'm a PhD student in Computer Science Department at [Rutgers University, New Brunswick, NJ](https://www.rutgers.edu/). And I am fortunate enough to have [Prof. Yongfeng Zhang](http://yongfeng.me/) as my supervisor. 
 
 My research interests lie in the interface of Machine Learning and Information Retrieval with specific focus on: Recommender System, Economic Recommendation, Explainable Recommendation, Fairness, Reinforcement Learning for Recommendation, Causality. 
 <!-- * *Machine  Learning*:  Graph Representation Learning, Knowledge Graph Reasoning, Neural Symbolic Reasoning, Deep  Reinforcement Learning -->
@@ -20,7 +20,7 @@ My research interests lie in the interface of Machine Learning and Information R
 ## Education
 * Ph.D in Computer Science, Rutgers University, 2019 - 2023 (expected)
 * M.S. in Computer Science, Rutgers University, 2017 - 2019
-* B.S. in Mathematics, Zhengzhou University, 2013 - 2017
+* B.S. in Computational Mathematics, Zhengzhou University, 2013 - 2017
 
 ## Work Experience
 * Etsy, NYC, NY
