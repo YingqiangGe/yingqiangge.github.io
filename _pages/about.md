@@ -17,7 +17,7 @@ My research interests lie in the interface of Machine Learning and Information R
 
 
 ## News
-* 2021-04-14 Paper about Personalized Counterfactual Fairness is accepted by SIGIR 2021.
+* 2021-04-14 Our research on Personalized Counterfactual Fairness is accepted by SIGIR 2021.
 * 2021-01-16 Papers on Fairness, Generative Recommendadtion, Knowledge Graph Embedding accepted to WWW 2021.
 * 2020-10-16 Our research on Long-term Fairness is accepted as a full paper to the WSDM 2021 conference.
 * 2020-08-10 Our research on Neural Symbolic Reasoning for Explainable Recommendadtion is accepted by the CIKM 2020 conference.
