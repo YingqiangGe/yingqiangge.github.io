@@ -16,8 +16,8 @@ Currently, I'm a PhD student in Computer Science Department at [Rutgers Universi
 My research interests lie in the interface of Machine Learning and Information Retrieval with specific focus on: Recommender System, Economic Recommendation, Explainable Recommendation, Fairness, Reinforcement Learning for Recommendation, Causality. 
 
 
-## News
-* 2021-04-14 Our research on Personalized Counterfactual Fairness is accepted by SIGIR 2021.
+## Newsa
+* 2021-04-14 Our research on Personalized Counterfactual Fairness is accepted by SIGIR 2021, while [Causal Collabrative Filtering](https://arxiv.org/pdf/2102.01868.pdf) is rejected.
 * 2021-01-16 Papers on Fairness, Generative Recommendadtion, Knowledge Graph Embedding accepted to WWW 2021.
 * 2020-10-16 Our research on Long-term Fairness is accepted as a full paper to the WSDM 2021 conference.
 * 2020-08-10 Our research on Neural Symbolic Reasoning for Explainable Recommendadtion is accepted by the CIKM 2020 conference.
