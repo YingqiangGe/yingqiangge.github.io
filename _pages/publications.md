@@ -7,7 +7,7 @@ author_profile: true
 ## Preprints
 **Causal Collabrative Filtering**
 Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.
-[paper](https://arxiv.org/pdf/2102.01868.pdf)]
+[[paper](https://arxiv.org/pdf/2102.01868.pdf)]]
 
 
 ## 2021
