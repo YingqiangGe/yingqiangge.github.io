@@ -56,7 +56,7 @@ Service and leadership
 ======
 * PC Member & Reviewer
   * Journal: TOIS 20'
-  * Conference: SIGIR 21', IJCAI 21', RecSys 20', AAAI 20'
+  * Conference: KDD 21', SIGIR 21', IJCAI 21', RecSys 20', AAAI 20'
 
 
 Awards
