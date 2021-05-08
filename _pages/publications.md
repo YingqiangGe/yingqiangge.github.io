@@ -5,8 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprints
-**Causal Collabrative Filtering**
+**FAIR: Fairness-Aware Information Retrieval Evaluation**
+Ruoyuan Gao, Yingqiang Ge, Chirag Shah
 
+**Causal Collabrative Filtering**
 Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.
 [[paper](https://arxiv.org/pdf/2102.01868.pdf)]
 
