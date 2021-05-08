@@ -6,9 +6,15 @@ author_profile: true
 ---
 ## Preprints
 **FAIR: Fairness-Aware Information Retrieval Evaluation**
-Ruoyuan Gao, Yingqiang Ge, Chirag Shah
+
+Ruoyuan Gao, Yingqiang Ge, Chirag Shah.
+
+**Learning Post-Hoc Causal Explanations for Recommendation**
+
+Shuyuan Xu, Yunqi Li, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Xu Chen and Yongfeng Zhang.
 
 **Causal Collabrative Filtering**
+
 Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.
 [[paper](https://arxiv.org/pdf/2102.01868.pdf)]
 
