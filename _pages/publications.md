@@ -12,6 +12,7 @@ Ruoyuan Gao, Yingqiang Ge, Chirag Shah.
 **Learning Post-Hoc Causal Explanations for Recommendation**
 
 Shuyuan Xu, Yunqi Li, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Xu Chen and Yongfeng Zhang.
+[[paper](https://arxiv.org/pdf/2006.16977.pdf)]
 
 **Causal Collabrative Filtering**
 
@@ -20,11 +21,14 @@ Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.
 
 
 ## 2021
+**Personalized Counterfactual Fairness in Recommendation**
+Yunqi Li, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge and Yongfeng Zhang.
+*In Proceedings of the 44th International ACM SIGIR Conference, July 11-15, 2021,  Online. (**SIGIR 21'**).*
 
-**Efficient Knowledge Graph Embedding without Negative Sampling**  
+**Efficient Non-Sampling Knowledge Graph Embedding**  
 Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Chong Chen and Yongfeng Zhang.  
 *In Proceedings of the Web Conference 2021, April 19 - April 23, 2021, Ljubljana, Slovenia. (**WWW 21'**).*
-[[paper]()]
+[[paper](https://arxiv.org/pdf/2104.10796.pdf)]
 
 
 **Variation Control and Evaluation for Generative Slate Recommendations**  
@@ -36,7 +40,7 @@ Shuchang Liu, Fei Sun, Yingqiang Ge, Changhua Pei, Wenwu Ou and Yongfeng Zhang.
 **User-oriented Group Fairness In Recommender Systems**  
 Yunqi Li, Hanxiong Chen, Zuohui Fu, Yingqiang Ge and Yongfeng Zhang.
 *In Proceedings of the Web Conference 2021, April 19 - April 23, 2021, Ljubljana, Slovenia. (**WWW 21'**).*
-[[paper]()]
+[[paper](https://arxiv.org/pdf/2104.10671.pdf)]
 
 **Towards Long-term Fairness in Recommendation**  
 Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, Yunqi Li, Xiangyu Zhao, Changhua Pei, Fei Sun, Junfeng Ge, Wenwu Ou, and Yongfeng Zhang.  
