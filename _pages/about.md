@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me
-Hi there, welcome to my homepage.
+Hi there, Welcome!
 
 Currently, I'm a PhD student in Computer Science Department at [Rutgers University, New Brunswick, NJ](https://www.rutgers.edu/). And I am fortunate enough to have [Prof. Yongfeng Zhang](http://yongfeng.me/) as my supervisor. 
 

@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Etsy, NYC, NY
-  * Applied Scientist Intern,  May 2021 - Aug. 2021 (expected)
+  * Applied Scientist Intern,  May 2021 - Aug. 2021
 * Alibaba, Remote
   * Research Intern,  May 2020 - Aug. 2020
 * Alibaba, Beijing, China
@@ -56,7 +56,7 @@ Service and leadership
 ======
 * PC Member & Reviewer
   * Journal: TOIS 20'
-  * Conference: KDD 21', SIGIR 21', IJCAI 21', RecSys 20', AAAI 20'
+  * Conference: IEEE SMDS 21', KDD 21', SIGIR 21', IJCAI 21', RecSys 20', AAAI 20'
 
 
 Awards
