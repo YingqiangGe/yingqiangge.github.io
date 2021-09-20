@@ -6,29 +6,24 @@ author_profile: true
 ---
 ## Preprints
 **Counterfactual Evaluation for Explainable AI**
-
 Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao Tan, Fei Sun, Yongfeng Zhang.
 [[paper](https://arxiv.org/abs/2109.01962)]
 
 **FAIR: Fairness-Aware Information Retrieval Evaluation**
-
 Ruoyuan Gao, Yingqiang Ge, Chirag Shah.
 [[paper](https://arxiv.org/pdf/2106.08527.pdf)]
 
 **Learning Post-Hoc Causal Explanations for Recommendation**
-
 Shuyuan Xu, Yunqi Li, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Xu Chen and Yongfeng Zhang.
 [[paper](https://arxiv.org/pdf/2006.16977.pdf)]
 
 **Causal Collabrative Filtering**
-
 Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.
 [[paper](https://arxiv.org/pdf/2102.01868.pdf)]
 
 
 ## 2021
 **Personalized Counterfactual Fairness in Recommendation**
-
 Yunqi Li, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge and Yongfeng Zhang.
 *In Proceedings of the 44th International ACM SIGIR Conference, July 11-15, 2021,  Online. (**SIGIR 21'**).*
 [[paper](https://arxiv.org/pdf/2105.09829.pdf)]
