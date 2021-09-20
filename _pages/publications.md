@@ -5,9 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprints
+**Counterfactual Evaluation for Explainable AI**
+
+Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao Tan, Fei Sun, Yongfeng Zhang.
+[[paper](https://arxiv.org/abs/2109.01962)]
+
 **FAIR: Fairness-Aware Information Retrieval Evaluation**
 
 Ruoyuan Gao, Yingqiang Ge, Chirag Shah.
+[[paper](https://arxiv.org/pdf/2106.08527.pdf)]
 
 **Learning Post-Hoc Causal Explanations for Recommendation**
 
