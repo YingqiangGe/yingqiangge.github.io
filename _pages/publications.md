@@ -30,6 +30,7 @@ Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.
 **Personalized Counterfactual Fairness in Recommendation**
 Yunqi Li, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge and Yongfeng Zhang.
 *In Proceedings of the 44th International ACM SIGIR Conference, July 11-15, 2021,  Online. (**SIGIR 21'**).*
+[[paper](https://arxiv.org/pdf/2105.09829.pdf)]
 
 **Efficient Non-Sampling Knowledge Graph Embedding**  
 Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Chong Chen and Yongfeng Zhang.  
