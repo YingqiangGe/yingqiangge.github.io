@@ -63,7 +63,7 @@ Yingqiang Ge, Shuyuan Xu, Shuchang Liu, Zuohui Fu, Fei Sun and Yongfeng Zhang
 **Understanding Echo Chambers in E-commerce Recommender Systems**  
 Yingqiang Ge<sup>\*</sup>, Shuya Zhao<sup>\*</sup>, Honglu Zhou, Changhua Pei, Fei Sun, Zuohui Fu, Yikun Xian, Wenwu Ou & YongfengZhang. 
 *Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, Industry Track(**SIGIR 20'**).*
-[[paper](https://arxiv.org/pdf/2006.02046.pdf)]
+[[paper](https://arxiv.org/pdf/2007.02474.pdf)]
 
 **Fairness-Aware Explainable Recommendation over Knowledge Graphs**  
 Zuohui Fu<sup>\*</sup>, Yikun Xian<sup>\*</sup>, Ruoyuan Gao, Jieyu Zhao, Qiaoying Huang, Yingqiang Ge, Shuyuan Xu, Shijie Geng, Chirag Shah, Yongfeng Zhang, Gerard de Melo.  
