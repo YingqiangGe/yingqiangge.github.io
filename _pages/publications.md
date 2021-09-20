@@ -23,6 +23,7 @@ Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.
 
 
 ## 2021
+
 **Personalized Counterfactual Fairness in Recommendation**
 Yunqi Li, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge and Yongfeng Zhang.
 *In Proceedings of the 44th International ACM SIGIR Conference, July 11-15, 2021,  Online. (**SIGIR 21'**).*
