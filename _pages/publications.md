@@ -43,19 +43,19 @@ Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Chong Chen and Yong
 [[paper](https://arxiv.org/pdf/2104.10796.pdf)]
 
 
-**Variation Control and Evaluation for Generative Slate Recommendations** 
-Shuchang Liu, Fei Sun, Yingqiang Ge, Changhua Pei, Wenwu Ou and Yongfeng Zhang.
+**Variation Control and Evaluation for Generative Slate Recommendations**\ 
+Shuchang Liu, Fei Sun, Yingqiang Ge, Changhua Pei, Wenwu Ou and Yongfeng Zhang.\
 *In Proceedings of the Web Conference 2021, April 19 - April 23, 2021, Ljubljana, Slovenia. (**WWW 21'**).*
 [[paper](https://arxiv.org/abs/2102.13302)]
 
 
-**User-oriented Group Fairness In Recommender Systems**
-Yunqi Li, Hanxiong Chen, Zuohui Fu, Yingqiang Ge and Yongfeng Zhang.
+**User-oriented Group Fairness In Recommender Systems**\
+Yunqi Li, Hanxiong Chen, Zuohui Fu, Yingqiang Ge and Yongfeng Zhang.\
 *In Proceedings of the Web Conference 2021, April 19 - April 23, 2021, Ljubljana, Slovenia. (**WWW 21'**).*
 [[paper](https://arxiv.org/pdf/2104.10671.pdf)]
 
-**Towards Long-term Fairness in Recommendation**
-Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, Yunqi Li, Xiangyu Zhao, Changhua Pei, Fei Sun, Junfeng Ge, Wenwu Ou, and Yongfeng Zhang.
+**Towards Long-term Fairness in Recommendation**\
+Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, Yunqi Li, Xiangyu Zhao, Changhua Pei, Fei Sun, Junfeng Ge, Wenwu Ou, and Yongfeng Zhang.\
 *In Proceedings of the 14th ACM International Conference on Web Search and Data Mining (**WSDM 21'**).*
 [[paper](https://arxiv.org/pdf/2101.03584.pdf)]
 
