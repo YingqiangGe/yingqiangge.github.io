@@ -43,7 +43,7 @@ Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Chong Chen and Yong
 [[paper](https://arxiv.org/pdf/2104.10796.pdf)]
 
 
-**Variation Control and Evaluation for Generative Slate Recommendations**\ 
+**Variation Control and Evaluation for Generative Slate Recommendations**\
 Shuchang Liu, Fei Sun, Yingqiang Ge, Changhua Pei, Wenwu Ou and Yongfeng Zhang.\
 *In Proceedings of the Web Conference 2021, April 19 - April 23, 2021, Ljubljana, Slovenia. (**WWW 21'**).*
 [[paper](https://arxiv.org/abs/2102.13302)]
