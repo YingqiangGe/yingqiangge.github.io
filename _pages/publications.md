@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprints
-**Counterfactual Evaluation for Explainable AI**
-
-Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao Tan, Fei Sun, Yongfeng Zhang.
+**Counterfactual Evaluation for Explainable AI**\
+Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao Tan, Fei Sun, Yongfeng Zhang.\
 [[paper](https://arxiv.org/abs/2109.01962)]
 
 **FAIR: Fairness-Aware Information Retrieval Evaluation**
@@ -26,9 +25,8 @@ Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.
 [[paper](https://arxiv.org/pdf/2102.01868.pdf)]
 
 ## 2022 
-**Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation through Reinforcement Learning**
-
-Yingqiang Ge, Xiaoting Zhao, Lucia Yu, Saurabh Paul, Diane Hu and Yongfeng Zhang.\\
+**Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation through Reinforcement Learning**\
+Yingqiang Ge, Xiaoting Zhao, Lucia Yu, Saurabh Paul, Diane Hu and Yongfeng Zhang.\
 *In Proceedings of the 15th ACM International Conference on Web Search and Data Mining,  February 21 -  25, 2022, Phoenix, Arizona. (**WSDM 22'**).*
 
 ## 2021
