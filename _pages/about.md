@@ -17,8 +17,9 @@ My research interests lie in the interface of Machine Learning and Information R
 
 
 ## News
+* 2021-10-1 Our research on "Pareto Efficient Fairness-Utility Trade-off" has been accepted as full paper by WSDM 2022.
 * 2021-08-09 Our proposal "Fairness of Machine Learning in Recommender Systems" has been accepted for presentation as a tutorial at the CIKM 2021.
-* 2021-08-08 Our proposal "Counterfactual  explainablerecommendation" has been accepted by CIKM 2021.
+* 2021-08-08 Our research on "Counterfactual explainable recommendation" has been accepted by CIKM 2021.
 * 2021-04-27 Our proposal "Fairness of Machine Learning in Recommender Systems" has been accepted for presentation as a tutorial at the SIGIR 2021.
 * 2021-04-14 Our research on Personalized Fairness is accepted by SIGIR 2021.
 * 2021-01-16 Papers on Fairness, Generative Recommendadtion, Knowledge Graph Embedding accepted to WWW 2021.
