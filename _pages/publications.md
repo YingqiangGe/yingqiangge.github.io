@@ -38,7 +38,7 @@ Yunqi Li, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge and Yongfeng Zhang.\
 [[paper](https://arxiv.org/pdf/2105.09829.pdf)]
 
 **Efficient Non-Sampling Knowledge Graph Embedding**\
-Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Chong Chen and Yongfeng Zhang.\  
+Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Chong Chen and Yongfeng Zhang.  
 *In Proceedings of the Web Conference 2021, April 19 - April 23, 2021, Ljubljana, Slovenia. (**WWW 21'**).*
 [[paper](https://arxiv.org/pdf/2104.10796.pdf)]
 
@@ -62,18 +62,18 @@ Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, Yunqi Li, Xiangyu Zhao, Cha
 
 ## 2020
 
-**CAFE: Coarse-to-Fine Knowledge Graph Reasoning for Explainable Recommendation**
-Yikun Xian, Zuohui Fu, Handong Zhao, Yingqiang Ge, Xu Chen, Qiaoying Huang, Shijie Geng, Zhou Qin, Gerard de Melo, S. Muthukrishnan and Yongfeng Zhang. 
+**CAFE: Coarse-to-Fine Knowledge Graph Reasoning for Explainable Recommendation**\
+Yikun Xian, Zuohui Fu, Handong Zhao, Yingqiang Ge, Xu Chen, Qiaoying Huang, Shijie Geng, Zhou Qin, Gerard de Melo, S. Muthukrishnan and Yongfeng Zhang.\ 
 *In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM 20'**).*
 [[paper](https://arxiv.org/pdf/2010.15620.pdf)]
 
-**Learning Personalized RiskPreferences for Recommendation** 
-Yingqiang Ge, Shuyuan Xu, Shuchang Liu, Zuohui Fu, Fei Sun and Yongfeng Zhang. 
+**Learning Personalized RiskPreferences for Recommendation**\ 
+Yingqiang Ge, Shuyuan Xu, Shuchang Liu, Zuohui Fu, Fei Sun and Yongfeng Zhang.\ 
 *In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 20'**).*
 [[paper](https://arxiv.org/abs/2007.02478)]
 
-**Understanding Echo Chambers in E-commerce Recommender Systems** 
-Yingqiang Ge<sup>\*</sup>, Shuya Zhao<sup>\*</sup>, Honglu Zhou, Changhua Pei, Fei Sun, Zuohui Fu, Yikun Xian, Wenwu Ou & YongfengZhang. 
+**Understanding Echo Chambers in E-commerce Recommender Systems**\ 
+Yingqiang Ge<sup>\*</sup>, Shuya Zhao<sup>\*</sup>, Honglu Zhou, Changhua Pei, Fei Sun, Zuohui Fu, Yikun Xian, Wenwu Ou & YongfengZhang.\ 
 *In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, Industry Track(**SIGIR 20'**).*
 [[paper](https://arxiv.org/pdf/2007.02474.pdf)]
 
