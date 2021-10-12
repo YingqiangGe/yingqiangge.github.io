@@ -24,12 +24,12 @@ Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.\
 ## 2022 
 **Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation through Reinforcement Learning**\
 Yingqiang Ge, Xiaoting Zhao, Lucia Yu, Saurabh Paul, Diane Hu and Yongfeng Zhang.\
-*In Proceedings of the 15th ACM International Conference on Web Search and Data Mining,  February 21 -  25, 2022, Phoenix, Arizona. (**WSDM 22'**).*
+*In Proceedings of the 15th ACM International Conference on Web Search and Data Mining, February 21-25, 2022, Phoenix, Arizona. (**WSDM 22'**).*
 
 ## 2021
 **Counterfactual Explainable Recommendation**\
 Juntao Tan, Shuyuan Xu, Yingqiang Ge, Yunqi Li, Xu Chen, Yongfeng Zhang.\
-*In Proceedings of the 30th ACM International Conference on Information and Knowledge Management, 2021, November 1 - November 5, 2021, Online. (**CIKM 21'**).*
+*In Proceedings of the 30th ACM International Conference on Information and Knowledge Management, November 1-5, 2021, Online. (**CIKM 21'**).*
 [[paper](https://arxiv.org/pdf/2108.10539.pdf)]
 
 **Personalized Counterfactual Fairness in Recommendation**\
@@ -63,7 +63,7 @@ Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, Yunqi Li, Xiangyu Zhao, Cha
 ## 2020
 
 **CAFE: Coarse-to-Fine Knowledge Graph Reasoning for Explainable Recommendation**\
-Yikun Xian, Zuohui Fu, Handong Zhao, Yingqiang Ge, Xu Chen, Qiaoying Huang, Shijie Geng, Zhou Qin, Gerard de Melo, S. Muthukrishnan and Yongfeng Zhang.\ 
+Yikun Xian, Zuohui Fu, Handong Zhao, Yingqiang Ge, Xu Chen, Qiaoying Huang, Shijie Geng, Zhou Qin, Gerard de Melo, S. Muthukrishnan and Yongfeng Zhang.\
 *In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM 20'**).*
 [[paper](https://arxiv.org/pdf/2010.15620.pdf)]
 
