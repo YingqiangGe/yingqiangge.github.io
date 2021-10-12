@@ -25,8 +25,15 @@ Shuyuan Xu, Yunqi Li, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Xu Chen and Yongfen
 Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.
 [[paper](https://arxiv.org/pdf/2102.01868.pdf)]
 
+## 2022 
+**Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation through Reinforcement Learning**
+Yingqiang Ge, Xiaoting Zhao, Lucia Yu, Saurabh Paul, Diane Hu and Yongfeng Zhang.
+*In Proceedings of the 15th ACM International Conference on Web Search and Data Mining,  February 21 -  25, 2022, Phoenix, Arizona. (**WSDM 22'**).*
 
 ## 2021
+**Counterfactual Explainable Recommendation**
+Juntao Tan, Shuyuan Xu, Yingqiang Ge, Yunqi Li, Xu Chen, Yongfeng Zhang.
+*In Proceedings of the 30th ACM International Conference on Information and Knowledge Management, 2021, November 1 - November 5, 2021, Online. (**CIKM 21'**).*
 
 **Personalized Counterfactual Fairness in Recommendation**
 
@@ -53,7 +60,7 @@ Yunqi Li, Hanxiong Chen, Zuohui Fu, Yingqiang Ge and Yongfeng Zhang.
 
 **Towards Long-term Fairness in Recommendation**  
 Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, Yunqi Li, Xiangyu Zhao, Changhua Pei, Fei Sun, Junfeng Ge, Wenwu Ou, and Yongfeng Zhang.  
-*Proceedings of the 14th ACM International Conference on Web Search and Data Mining (**WSDM 21'**).*
+*In Proceedings of the 14th ACM International Conference on Web Search and Data Mining (**WSDM 21'**).*
 [[paper](https://arxiv.org/pdf/2101.03584.pdf)]
 
 
@@ -61,7 +68,7 @@ Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, Yunqi Li, Xiangyu Zhao, Cha
 
 **CAFE: Coarse-to-Fine Knowledge Graph Reasoning for Explainable Recommendation**  
 Yikun Xian, Zuohui Fu, Handong Zhao, Yingqiang Ge, Xu Chen, Qiaoying Huang, Shijie Geng, Zhou Qin, Gerard de Melo, S. Muthukrishnan and Yongfeng Zhang.  
-*Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM 20'**).*
+*In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM 20'**).*
 [[paper](https://arxiv.org/pdf/2010.15620.pdf)]
 
 **Learning Personalized RiskPreferences for Recommendation**  
