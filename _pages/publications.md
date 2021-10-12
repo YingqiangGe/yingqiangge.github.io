@@ -72,18 +72,18 @@ Yingqiang Ge, Shuyuan Xu, Shuchang Liu, Zuohui Fu, Fei Sun and Yongfeng Zhang.\
 *In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 20'**).*
 [[paper](https://arxiv.org/abs/2007.02478)]
 
-**Understanding Echo Chambers in E-commerce Recommender Systems**\ 
-Yingqiang Ge<sup>\*</sup>, Shuya Zhao<sup>\*</sup>, Honglu Zhou, Changhua Pei, Fei Sun, Zuohui Fu, Yikun Xian, Wenwu Ou & YongfengZhang.\ 
+**Understanding Echo Chambers in E-commerce Recommender Systems**\
+Yingqiang Ge<sup>\*</sup>, Shuya Zhao<sup>\*</sup>, Honglu Zhou, Changhua Pei, Fei Sun, Zuohui Fu, Yikun Xian, Wenwu Ou & YongfengZhang.\
 *In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, Industry Track(**SIGIR 20'**).*
 [[paper](https://arxiv.org/pdf/2007.02474.pdf)]
 
-**Fairness-Aware Explainable Recommendation over Knowledge Graphs**
-Zuohui Fu<sup>\*</sup>, Yikun Xian<sup>\*</sup>, Ruoyuan Gao, Jieyu Zhao, Qiaoying Huang, Yingqiang Ge, Shuyuan Xu, Shijie Geng, Chirag Shah, Yongfeng Zhang, Gerard de Melo.
+**Fairness-Aware Explainable Recommendation over Knowledge Graphs**\
+Zuohui Fu<sup>\*</sup>, Yikun Xian<sup>\*</sup>, Ruoyuan Gao, Jieyu Zhao, Qiaoying Huang, Yingqiang Ge, Shuyuan Xu, Shijie Geng, Chirag Shah, Yongfeng Zhang, Gerard de Melo.\
 *In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 20'**).*
 [[paper](https://arxiv.org/pdf/2006.02046.pdf)]
 
-**ABSent: Cross-Lingual Sentence Representation Mapping with Bidirectional GANs**  
-Zuohui Fu, Yikun Xian, Shijie Geng, Yingqiang Ge, Yuting Wang, Xin Dong, Guang Wang, Gerard de Melo.  
+**ABSent: Cross-Lingual Sentence Representation Mapping with Bidirectional GANs**\
+Zuohui Fu, Yikun Xian, Shijie Geng, Yingqiang Ge, Yuting Wang, Xin Dong, Guang Wang, Gerard de Melo.\
 *In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 20'**).*
 [[paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-FuZ.2038.pdf)]
 
@@ -95,7 +95,7 @@ Yingqiang Ge, Shuyuan Xu, Shuchang Liu, Shijie Geng, Zuohui Fu and Yongfeng Zhan
 [[paper](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313725)]
 
 **sharedCharging: Data-DrivenShared Charging for Large-Scale Heterogeneous Electric Vehicle Fleets**  
-Guang Wang, Wenzhong  Li, Jun  Zhang, Yingqiang  Ge, Zuohui Fu,Fan  Zhang, Yang  Wang and Desheng Zhang.
+Guang Wang, Wenzhong  Li, Jun  Zhang, Yingqiang  Ge, Zuohui Fu,Fan  Zhang, Yang  Wang and Desheng Zhang.\
 *In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Sep. 9 - 13, 2019, London, United Kingdom. (**ACM  IMWUT/UbiComp 19'**).*
 [[paper](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313725)]
 
