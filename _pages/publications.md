@@ -28,7 +28,7 @@ Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.
 ## 2022 
 **Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation through Reinforcement Learning**
 
-Yingqiang Ge, Xiaoting Zhao, Lucia Yu, Saurabh Paul, Diane Hu and Yongfeng Zhang.
+Yingqiang Ge, Xiaoting Zhao, Lucia Yu, Saurabh Paul, Diane Hu and Yongfeng Zhang.\\
 *In Proceedings of the 15th ACM International Conference on Web Search and Data Mining,  February 21 -  25, 2022, Phoenix, Arizona. (**WSDM 22'**).*
 
 ## 2021
@@ -75,22 +75,22 @@ Yikun Xian, Zuohui Fu, Handong Zhao, Yingqiang Ge, Xu Chen, Qiaoying Huang, Shij
 
 **Learning Personalized RiskPreferences for Recommendation**  
 Yingqiang Ge, Shuyuan Xu, Shuchang Liu, Zuohui Fu, Fei Sun and Yongfeng Zhang  
-*Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 20'**).*
+*In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 20'**).*
 [[paper](https://arxiv.org/abs/2007.02478)]
 
 **Understanding Echo Chambers in E-commerce Recommender Systems**  
 Yingqiang Ge<sup>\*</sup>, Shuya Zhao<sup>\*</sup>, Honglu Zhou, Changhua Pei, Fei Sun, Zuohui Fu, Yikun Xian, Wenwu Ou & YongfengZhang. 
-*Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, Industry Track(**SIGIR 20'**).*
+*In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, Industry Track(**SIGIR 20'**).*
 [[paper](https://arxiv.org/pdf/2007.02474.pdf)]
 
 **Fairness-Aware Explainable Recommendation over Knowledge Graphs**  
 Zuohui Fu<sup>\*</sup>, Yikun Xian<sup>\*</sup>, Ruoyuan Gao, Jieyu Zhao, Qiaoying Huang, Yingqiang Ge, Shuyuan Xu, Shijie Geng, Chirag Shah, Yongfeng Zhang, Gerard de Melo.  
-*Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 20'**).*
+*In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 20'**).*
 [[paper](https://arxiv.org/pdf/2006.02046.pdf)]
 
 **ABSent: Cross-Lingual Sentence Representation Mapping with Bidirectional GANs**  
 Zuohui Fu, Yikun Xian, Shijie Geng, Yingqiang Ge, Yuting Wang, Xin Dong, Guang Wang, Gerard de Melo.  
-*Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 20'**).*
+*In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 20'**).*
 [[paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-FuZ.2038.pdf)]
 
 
