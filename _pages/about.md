@@ -17,6 +17,7 @@ My research interests lie in the interface of Machine Learning and Information R
 
 
 ## News
+* 2022-01-13 Our research on "Explainable Recommendation over Knowledge Graphs", "Explainable GNN" are accepted as long papers on the Web Conference 2022.
 * 2021-12-27 Received ACM WSDM'22 Student Travel Awards.
 * 2021-10-11 Our research on "Pareto Efficient Fairness-Utility Trade-off" has been accepted as full paper by WSDM 2022.
 * 2021-08-09 Our proposal "Fairness of Machine Learning in Recommender Systems" has been accepted for presentation as a tutorial at the CIKM 2021.
@@ -27,7 +28,7 @@ My research interests lie in the interface of Machine Learning and Information R
 * 2021-01-16 Papers on "Fairness", "Generative Recommendadtion", "Knowledge Graph Embedding" accepted to WWW 2021.
 * 2020-10-16 Our research on "Long-term Fairness" is accepted as a full paper to the WSDM 2021 conference.
 * 2020-08-10 Our research on "Neural Symbolic Reasoning for Explainable Recommendadtion" is accepted by the CIKM 2020 conference.
-* 2020-06-20 Our research on "Risk-aware Recommendation", "Fairness-aware Recommendation", and "Echo Chamber Analysis" are accepted as long papers on the SIGIR 2020 conference.
+* 2020-06-20 Our research on "Risk-aware Recommendation", "Fairness-aware Recommendation", and "Echo Chamber Analysis" are accepted as long papers on the SIGIR 2020.
 * 2019-01-20 Our recent research on bridging machine learning and economic principles for economic analysis of web-based systems is accepted by the Web Conference 2019 (WWW 2019).
 
 <!-- * *Machine  Learning*:  Graph Representation Learning, Knowledge Graph Reasoning, Neural Symbolic Reasoning, Deep  Reinforcement Learning -->
