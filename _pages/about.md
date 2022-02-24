@@ -17,6 +17,7 @@ My research interests lie in the interface of Machine Learning and Information R
 
 
 ## News
+* 2022-02-24 Our research on "Explainable Recommendation through Visualization" has been accepted to appear at the ACL 2022 Main conference.
 * 2022-01-13 Our research on "Explainable Recommendation over Knowledge Graphs", "Explainable GNN" are accepted as long papers on the Web Conference 2022.
 * 2021-12-27 Received ACM WSDM'22 Student Travel Awards.
 * 2021-10-11 Our research on "Pareto Efficient Fairness-Utility Trade-off" has been accepted as full paper by WSDM 2022.
