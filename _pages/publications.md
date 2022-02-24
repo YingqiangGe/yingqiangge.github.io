@@ -25,6 +25,7 @@ Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.\
 **Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation through Reinforcement Learning**\
 Yingqiang Ge, Xiaoting Zhao, Lucia Yu, Saurabh Paul, Diane Hu and Yongfeng Zhang.\
 *In Proceedings of the 15th ACM International Conference on Web Search and Data Mining (**WSDM 22'**).*
+[[paper](https://arxiv.org/pdf/2201.00140.pdf)]
 
 ## 2021
 **Counterfactual Explainable Recommendation**\
