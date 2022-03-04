@@ -22,7 +22,13 @@ Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.\
 [[paper](https://arxiv.org/pdf/2102.01868.pdf)]
 
 ## 2022 
-**Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation through Reinforcement Learning**\
+**Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning**\
+Juntao Tan, Shijie Geng, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Yunqi Li, Yongfeng Zhang, Yongfeng Zhang.\
+*In Proceedings of the Web Conference 2022, April 25 – 29, Online, hosted by Lyon, France (**WWW 22'**)*
+[[paper](https://arxiv.org/pdf/2202.08816.pdf)]
+
+
+**Towards Pareto Efficient Fairness-Utility Trade-off in Recommendation through Reinforcement Learning**\
 Yingqiang Ge, Xiaoting Zhao, Lucia Yu, Saurabh Paul, Diane Hu and Yongfeng Zhang.\
 *In Proceedings of the 15th ACM International Conference on Web Search and Data Mining (**WSDM 22'**).*
 [[paper](https://arxiv.org/pdf/2201.00140.pdf)]
