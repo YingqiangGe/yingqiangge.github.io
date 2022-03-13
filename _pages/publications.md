@@ -9,10 +9,6 @@ author_profile: true
 Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao Tan, Fei Sun, Yongfeng Zhang.\
 [[paper](https://arxiv.org/abs/2109.01962)]
 
-**FAIR: Fairness-Aware Information Retrieval Evaluation**\
-Ruoyuan Gao, Yingqiang Ge, Chirag Shah.\
-[[paper](https://arxiv.org/pdf/2106.08527.pdf)]
-
 **Learning Post-Hoc Causal Explanations for Recommendation**\
 Shuyuan Xu, Yunqi Li, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Xu Chen and Yongfeng Zhang.\
 [[paper](https://arxiv.org/pdf/2006.16977.pdf)]
@@ -22,9 +18,18 @@ Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.\
 [[paper](https://arxiv.org/pdf/2102.01868.pdf)]
 
 ## 2022 
+**FAIR: Fairness-Aware Information Retrieval Evaluation**\
+Ruoyuan Gao, Yingqiang Ge, Chirag Shah.\
+*In Proceedings of the Journal of the Association for Information Science and Technology (**JASIST**).*
+[[paper](https://arxiv.org/pdf/2106.08527.pdf)]
+
+**Improving Personalized Explanation Generation through Visualization**\
+Shijie Geng, Zuohui Fu, Yingqiang Ge, Lei Li, Gerard de Melo, Yongfeng Zhang.\
+*In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (**ACL 22'**)*
+
 **Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning**\
 Juntao Tan, Shijie Geng, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Yunqi Li, Yongfeng Zhang, Yongfeng Zhang.\
-*In Proceedings of the Web Conference 2022, April 25 – 29, Online, hosted by Lyon, France (**WWW 22'**)*
+*In Proceedings of the Web Conference 2022, April 25 – 29, Online, hosted by Lyon, France (**WWW 22'**).*
 [[paper](https://arxiv.org/pdf/2202.08816.pdf)]
 
 
