@@ -9,15 +9,23 @@ author_profile: true
 Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao Tan, Fei Sun, Yongfeng Zhang.\
 [[paper](https://arxiv.org/abs/2109.01962)]
 
-**Learning Post-Hoc Causal Explanations for Recommendation**\
-Shuyuan Xu, Yunqi Li, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Xu Chen and Yongfeng Zhang.\
-[[paper](https://arxiv.org/pdf/2006.16977.pdf)]
+**Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)**\
+Shijie Geng, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang.\ 
+[[paper](https://arxiv.org/pdf/2203.13366.pdf)]
 
 **Causal Collabrative Filtering**\
 Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.\
 [[paper](https://arxiv.org/pdf/2102.01868.pdf)]
 
 ## 2022 
+**Explainable Fairness in Recommendation**\
+Yingqiang Ge, Juntao Tan, Yan Zhu, Yinglong Xia, Jiebo Luo, Shuchang Liu, Zuohui Fu, Shijie Geng, Zelong Li and Yongfeng Zhang.\ 
+*In Proceedings of the 45th International ACM SIGIR Conference, July 11 - 15, 2022, Madrid, Spain (**SIGIR 22'**).*
+
+**AutoLossGen: Automatic Loss Function Generation for Recommender Systems**\
+Zelong Li, Jianchao Ji, Yingqiang Ge and Yongfeng Zhang.\
+*In Proceedings of the 45th International ACM SIGIR Conference, July 11 - 15, 2022, Madrid, Spain (**SIGIR 22'**).*
+
 **FAIR: Fairness-Aware Information Retrieval Evaluation**\
 Ruoyuan Gao, Yingqiang Ge, Chirag Shah.\
 *In Proceedings of the Journal of the Association for Information Science and Technology (**JASIST**).*
@@ -25,13 +33,16 @@ Ruoyuan Gao, Yingqiang Ge, Chirag Shah.\
 
 **Improving Personalized Explanation Generation through Visualization**\
 Shijie Geng, Zuohui Fu, Yingqiang Ge, Lei Li, Gerard de Melo, Yongfeng Zhang.\
-*In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (**ACL 22'**)*
+*In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (**ACL 22'**).*
 
 **Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning**\
 Juntao Tan, Shijie Geng, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Yunqi Li, Yongfeng Zhang, Yongfeng Zhang.\
 *In Proceedings of the Web Conference 2022, April 25 – 29, Online, hosted by Lyon, France (**WWW 22'**).*
 [[paper](https://arxiv.org/pdf/2202.08816.pdf)]
 
+**Path Language Modeling over Knowledge Graphs for Explainable Recommendation**\
+Shijie Geng, Zuohui Fu, Juntao Tan, Yingqiang Ge, Gerard de Melo and Yongfeng Zhang. 
+*In Proceedings of the Web Conference 2022, April 25 – 29, Online, hosted by Lyon, France (**WWW 22'**).*
 
 **Towards Pareto Efficient Fairness-Utility Trade-off in Recommendation through Reinforcement Learning**\
 Yingqiang Ge, Xiaoting Zhao, Lucia Yu, Saurabh Paul, Diane Hu and Yongfeng Zhang.\
@@ -49,17 +60,19 @@ Yunqi Li, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge and Yongfeng Zhang.\
 *In Proceedings of the 44th International ACM SIGIR Conference, July 11-15, 2021, Online (**SIGIR 21'**).*
 [[paper](https://arxiv.org/pdf/2105.09829.pdf)]
 
+**Learning Causal Explanations for Recommendation**\
+Shuyuan Xu, Yunqi Li, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Xu Chen, Yongfeng Zhang.\
+*In Proceedings of the 1st International Workshop on Causality in Search and Recommendation, July 15, 2021, Virtual Event, Canada.*
+
 **Efficient Non-Sampling Knowledge Graph Embedding**\
 Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Chong Chen and Yongfeng Zhang.  
 *In Proceedings of the Web Conference 2021, April 19 - April 23, 2021, Ljubljana, Slovenia (**WWW 21'**).*
 [[paper](https://arxiv.org/pdf/2104.10796.pdf)]
 
-
 **Variation Control and Evaluation for Generative Slate Recommendations**\
 Shuchang Liu, Fei Sun, Yingqiang Ge, Changhua Pei, Wenwu Ou and Yongfeng Zhang.\
 *In Proceedings of the Web Conference 2021, April 19 - April 23, 2021, Ljubljana, Slovenia (**WWW 21'**).*
 [[paper](https://arxiv.org/abs/2102.13302)]
-
 
 **User-oriented Group Fairness In Recommender Systems**\
 Yunqi Li, Hanxiong Chen, Zuohui Fu, Yingqiang Ge and Yongfeng Zhang.\
