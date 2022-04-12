@@ -10,7 +10,7 @@ Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao
 [[paper](https://arxiv.org/abs/2109.01962)]
 
 **Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)**\
-Shijie Geng, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang.\ 
+Shijie Geng, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang.\
 [[paper](https://arxiv.org/pdf/2203.13366.pdf)]
 
 **Causal Collabrative Filtering**\
@@ -19,7 +19,7 @@ Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.\
 
 ## 2022 
 **Explainable Fairness in Recommendation**\
-Yingqiang Ge, Juntao Tan, Yan Zhu, Yinglong Xia, Jiebo Luo, Shuchang Liu, Zuohui Fu, Shijie Geng, Zelong Li, Yongfeng Zhang.\ 
+Yingqiang Ge, Juntao Tan, Yan Zhu, Yinglong Xia, Jiebo Luo, Shuchang Liu, Zuohui Fu, Shijie Geng, Zelong Li, Yongfeng Zhang.\
 *In Proceedings of the 45th International ACM SIGIR Conference, July 11 - 15, 2022, Madrid, Spain (**SIGIR 22'**).*
 
 **AutoLossGen: Automatic Loss Function Generation for Recommender Systems**\
