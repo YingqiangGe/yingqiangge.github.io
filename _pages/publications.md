@@ -19,7 +19,7 @@ Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.\
 
 ## 2022 
 **Explainable Fairness in Recommendation**\
-Yingqiang Ge, Juntao Tan, Yan Zhu, Yinglong Xia, Jiebo Luo, Shuchang Liu, Zuohui Fu, Shijie Geng, Zelong Li and Yongfeng Zhang.\ 
+Yingqiang Ge, Juntao Tan, Yan Zhu, Yinglong Xia, Jiebo Luo, Shuchang Liu, Zuohui Fu, Shijie Geng, Zelong Li, Yongfeng Zhang.\ 
 *In Proceedings of the 45th International ACM SIGIR Conference, July 11 - 15, 2022, Madrid, Spain (**SIGIR 22'**).*
 
 **AutoLossGen: Automatic Loss Function Generation for Recommender Systems**\
