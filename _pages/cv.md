@@ -17,12 +17,14 @@ Education
 
 Work experience
 ======
-* Etsy, NYC, NY
+* Amazon, Seattle, WA
+  * Applied Scientist Intern,  May 2022 - Aug. 2022
+* Etsy, Remote
   * Applied Scientist Intern,  May 2021 - Aug. 2021
 * Alibaba, Remote
-  * Research Intern,  May 2020 - Aug. 2020
+  * Research Scientist Intern,  May 2020 - Aug. 2020
 * Alibaba, Beijing, China
-  * Research Intern,  May 2019 - Aug. 2019
+  * Research Scientist Intern,  May 2019 - Aug. 2019
 
   
 <!-- Skills
@@ -61,6 +63,7 @@ Service and leadership
 
 Awards
 ======
+* SIGIR Student Travel Grant, 2022
 * SIGIR Student Travel Grant, 2021
 * Outstanding Research Internship of Alibaba Group, 2020
 * Fellowship of Rutgers University, 2020 (2%)
