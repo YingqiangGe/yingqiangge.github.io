@@ -58,12 +58,13 @@ Service and leadership
 ======
 * PC Member & Reviewer
   * Journal: TOIS 20'
-  * Conference: IEEE SMDS 21', KDD 21', SIGIR 21', IJCAI 21', RecSys 20', AAAI 20'
+  * Conference: IJCAI 22', IEEE SMDS 21', KDD 21', SIGIR 21', IJCAI 21', RecSys 20', AAAI 20'
 
 
 Awards
 ======
 * SIGIR Student Travel Grant, 2022
+* WSDM Student Travel Grant, 2022
 * SIGIR Student Travel Grant, 2021
 * Outstanding Research Internship of Alibaba Group, 2020
 * Fellowship of Rutgers University, 2020 (2%)
