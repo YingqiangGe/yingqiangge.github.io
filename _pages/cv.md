@@ -19,16 +19,16 @@ Work experience
 ======
 * Amazon, Seattle, WA
   * Applied Scientist Intern,  May 2022 - Aug. 2022
-  * Work closely with Fei Wang, Mostafa Rahmani
+  * Work closely with [Fei Wang](https://scholar.google.com/citations?user=kTt-XfEAAAAJ&hl=en&oi=ao), [Mostafa Rahmani](https://scholar.google.com/citations?user=Sdn8qIYAAAAJ&hl=en)
 * Etsy, Remote
   * Applied Scientist Intern,  May 2021 - Aug. 2021
-  * Work closely with Diane Hu, Xiaoting Zhao
+  * Work closely with [Diane Hu](https://scholar.google.com/citations?user=uPOQr0wAAAAJ&hl=en), [Xiaoting Zhao](https://www.researchgate.net/profile/Xiaoting-Zhao-3/research)
 * Alibaba, Remote
   * Research Scientist Intern,  May 2020 - Aug. 2020
-  * Work closely with Changhua Pei, Fei Sun
+  * Work closely with [Changhua Pei](https://scholar.google.com/citations?hl=en&user=ZF-c4kYAAAAJ), [Fei Sun](https://scholar.google.com/citations?hl=en&user=OlRxBhcAAAAJ)
 * Alibaba, Beijing, China
   * Research Scientist Intern,  May 2019 - Aug. 2019
-  * Work closely with Changhua Pei, Fei Sun
+  * Work closely with [Changhua Pei](https://scholar.google.com/citations?hl=en&user=ZF-c4kYAAAAJ), [Fei Sun](https://scholar.google.com/citations?hl=en&user=OlRxBhcAAAAJ)
 
   
 <!-- Skills
@@ -61,7 +61,7 @@ Teaching
 Service and leadership
 ======
 * PC Member & Reviewer
-  * Journal: TOIS 20'
+  * Journal: TKDE 21', TOIS 20'
   * Conference: IJCAI 22', IEEE SMDS 21', KDD 21', SIGIR 21', IJCAI 21', RecSys 20', AAAI 20'
 
 
