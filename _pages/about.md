@@ -11,7 +11,7 @@ redirect_from:
 ## About Me
 Welcome!
 
-Currently, I'm a PhD Candidate in Computer Science Department at [Rutgers University, New Brunswick, NJ](https://www.rutgers.edu/). And I am fortunate enough to have [Prof. Yongfeng Zhang](http://yongfeng.me/) as my supervisor. Before that, I received M.S. degree from Rutgers University in 2019 and B.S. degree from Zhengzhou University in 2017.
+Currently, I'm a PhD Candidate in Computer Science Department at [Rutgers University, New Brunswick, NJ](https://www.rutgers.edu/). And I am fortunate enough to have [Prof. Yongfeng Zhang](http://yongfeng.me/) as my supervisor. Before that, I received M.S. degree from Rutgers University in 2019 and B.S. degree from [Zhengzhou University](http://www.zzu.edu.cn/) in 2017.
 
 My research interests lie in the interface of Machine Learning and Information Retrieval with specific focus on: Recommender System, Economic Recommendation, Explainable Recommendation, Fairness-aware Recommendation and Causal Recommendation. 
 
