@@ -21,10 +21,12 @@ Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.\
 **Explainable Fairness in Recommendation**\
 Yingqiang Ge, Juntao Tan, Yan Zhu, Yinglong Xia, Jiebo Luo, Shuchang Liu, Zuohui Fu, Shijie Geng, Zelong Li, Yongfeng Zhang.\
 *In Proceedings of the 45th International ACM SIGIR Conference, July 11 - 15, 2022, Madrid, Spain (**SIGIR 22'**).*
+[[paper](https://arxiv.org/pdf/2204.11159.pdf)]
 
 **AutoLossGen: Automatic Loss Function Generation for Recommender Systems**\
 Zelong Li, Jianchao Ji, Yingqiang Ge and Yongfeng Zhang.\
 *In Proceedings of the 45th International ACM SIGIR Conference, July 11 - 15, 2022, Madrid, Spain (**SIGIR 22'**).*
+[[paper](https://arxiv.org/pdf/2204.13160.pdf)]
 
 **FAIR: Fairness-Aware Information Retrieval Evaluation**\
 Ruoyuan Gao, Yingqiang Ge, Chirag Shah.\
@@ -34,6 +36,7 @@ Ruoyuan Gao, Yingqiang Ge, Chirag Shah.\
 **Improving Personalized Explanation Generation through Visualization**\
 Shijie Geng, Zuohui Fu, Yingqiang Ge, Lei Li, Gerard de Melo, Yongfeng Zhang.\
 *In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (**ACL 22'**).*
+[[paper](https://aclanthology.org/2022.acl-long.20/)]
 
 **Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning**\
 Juntao Tan, Shijie Geng, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Yunqi Li, Yongfeng Zhang, Yongfeng Zhang.\
@@ -43,6 +46,7 @@ Juntao Tan, Shijie Geng, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Yunqi Li, Yongfeng
 **Path Language Modeling over Knowledge Graphs for Explainable Recommendation**\
 Shijie Geng, Zuohui Fu, Juntao Tan, Yingqiang Ge, Gerard de Melo and Yongfeng Zhang. 
 *In Proceedings of the Web Conference 2022, April 25 – 29, Online, hosted by Lyon, France (**WWW 22'**).*
+[[paper](https://dl.acm.org/doi/10.1145/3485447.3511937)]
 
 **Towards Pareto Efficient Fairness-Utility Trade-off in Recommendation through Reinforcement Learning**\
 Yingqiang Ge, Xiaoting Zhao, Lucia Yu, Saurabh Paul, Diane Hu and Yongfeng Zhang.\
@@ -63,6 +67,7 @@ Yunqi Li, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge and Yongfeng Zhang.\
 **Learning Causal Explanations for Recommendation**\
 Shuyuan Xu, Yunqi Li, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Xu Chen, Yongfeng Zhang.\
 *In Proceedings of the 1st International Workshop on Causality in Search and Recommendation, July 15, 2021, Virtual Event, Canada.*
+[[paper](http://ceur-ws.org/Vol-2911/paper3.pdf)]
 
 **Efficient Non-Sampling Knowledge Graph Embedding**\
 Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Chong Chen and Yongfeng Zhang.  
