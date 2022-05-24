@@ -19,12 +19,16 @@ Work experience
 ======
 * Amazon, Seattle, WA
   * Applied Scientist Intern,  May 2022 - Aug. 2022
+  * Work closely with Fei Wang, Mostafa Rahmani
 * Etsy, Remote
   * Applied Scientist Intern,  May 2021 - Aug. 2021
+  * Work closely with Diane Hu, Xiaoting Zhao
 * Alibaba, Remote
   * Research Scientist Intern,  May 2020 - Aug. 2020
+  * Work closely with Changhua Pei, Fei Sun
 * Alibaba, Beijing, China
   * Research Scientist Intern,  May 2019 - Aug. 2019
+  * Work closely with Changhua Pei, Fei Sun
 
   
 <!-- Skills
