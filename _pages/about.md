@@ -17,7 +17,7 @@ My research interests lie in the interface of Machine Learning and Information R
 
 
 ## News
-* 2022-05-24 Susseccfully defenced my PhD Qualifying Exam.
+* 2022-05-24 Successfully passed my PhD Qualifying Exam!
 * 2022-04-26 Received SIGIR 2022 Student Travel Grant.
 * 2022-03-25 Our research on "Explainable Fairness" and "AutoLoss" are accepted by SIGIR 2022.
 * 2022-03-09 Our research on "Fairness Evaluation" has been accepted for publication in the Journal of the Association for Information Science and Technology (JASIST).
