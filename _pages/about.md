@@ -17,6 +17,7 @@ My research interests lie in the interface of Machine Learning and Information R
 
 
 ## News
+* 2022-06-28 Our research on "Federated Fairness" and "P5" are accepted by RecSyc 2022.
 * 2022-05-24 Successfully passed my PhD Qualifying Exam!
 * 2022-04-26 Received SIGIR 2022 Student Travel Grant.
 * 2022-03-25 Our research on "Explainable Fairness" and "AutoLoss" are accepted by SIGIR 2022.
