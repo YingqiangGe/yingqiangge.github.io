@@ -5,19 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprints
+**Fairness in Recommendation: A Survey**\
+Yunqi Li, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge, Juntao Tan, Shuchang Liu, Yongfeng Zhang.\
+[[paper](https://arxiv.org/pdf/2205.13619.pdf)]
+
 **Counterfactual Evaluation for Explainable AI**\
 Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao Tan, Fei Sun, Yongfeng Zhang.\
 [[paper](https://arxiv.org/abs/2109.01962)]
-
-**Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)**\
-Shijie Geng, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang.\
-[[paper](https://arxiv.org/pdf/2203.13366.pdf)]
 
 **Causal Collabrative Filtering**\
 Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.\
 [[paper](https://arxiv.org/pdf/2102.01868.pdf)]
 
 ## 2022 
+**Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)**\
+Shijie Geng, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang.\
+*In Proceedings of the 16th ACM Recommender Systems Conference, Sept. 18 - 23, 2022., Seattle, WA, USA (**RecSys 22'**)*
+[[paper](https://arxiv.org/pdf/2203.13366.pdf)]
+
 **Explainable Fairness in Recommendation**\
 Yingqiang Ge, Juntao Tan, Yan Zhu, Yinglong Xia, Jiebo Luo, Shuchang Liu, Zuohui Fu, Shijie Geng, Zelong Li, Yongfeng Zhang.\
 *In Proceedings of the 45th International ACM SIGIR Conference, July 11 - 15, 2022, Madrid, Spain (**SIGIR 22'**).*
