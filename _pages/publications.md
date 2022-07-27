@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprints
+**A Survey on Trustworthy Recommender Systems**\
+Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, Shuyuan Xu, Yunqi Li, Yikun Xian, Yongfeng Zhang.\
+[[paper](http://arxiv.org/abs/2207.12515)]
+
 **Fairness in Recommendation: A Survey**\
 Yunqi Li, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge, Juntao Tan, Shuchang Liu, Yongfeng Zhang.\
 [[paper](https://arxiv.org/pdf/2205.13619.pdf)]
@@ -18,6 +22,10 @@ Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.\
 [[paper](https://arxiv.org/pdf/2102.01868.pdf)]
 
 ## 2022 
+**Fairness-aware Federated Matrix Factorization**\
+Shuchang Liu, Yingqiang Ge, Shuyuan Xu, Yongfeng Zhang, Amelie Marian.\
+*In Proceedings of the 16th ACM Recommender Systems Conference, Sept. 18 - 23, 2022., Seattle, WA, USA (**RecSys 22'**)*
+
 **Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)**\
 Shijie Geng, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang.\
 *In Proceedings of the 16th ACM Recommender Systems Conference, Sept. 18 - 23, 2022., Seattle, WA, USA (**RecSys 22'**)*
