@@ -17,7 +17,9 @@ My research interests lie in the interface of Machine Learning and Information R
 
 
 ## News
-* 2022-06-28 Our research on "Federated Fairness" and "P5" are accepted by RecSyc'22.
+* 2022-12-02 Gave a talk "Towards Fairer Recommender Systems through Deep Reinforcement Learning" at the Institute of Computing Technology, Chinese Academy of Sciences.
+* 2022-10-18 Our research on "Counterfactual Data Augmentation" accepted by WSDM'23.
+* 2022-06-28 Our research on "Federated Fairness" and "P5" accepted by RecSyc'22.
 * 2022-06-09 Gave a talk on "Fairness in Recommender System" in Amazon.
 * 2022-05-24 Successfully passed my PhD Qualifying Exam!
 * 2022-04-26 Received SIGIR 2022 Student Travel Grant.
