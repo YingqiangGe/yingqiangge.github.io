@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprints
+**OpenAGI: When LLM Meets Domain Experts**\
+Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, Shuyuan Xu and Yongfeng Zhang.\
+[[paper](https://arxiv.org/pdf/2304.04370.pdf)]
+[[code](https://github.com/agiresearch/OpenAGI)]
+
 **A Survey on Trustworthy Recommender Systems**\
 Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, Shuyuan Xu, Yunqi Li, Yikun Xian, Yongfeng Zhang.\
 [[paper](http://arxiv.org/abs/2207.12515)]
