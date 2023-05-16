@@ -19,6 +19,7 @@ These days, I am fascinated by foundation models (e.g., GPT-4, LLaMA, T5), which
 
 
 ## News
+* 2023-05-16 Gave a presentation "When LLMs Meet Domain Experts" at NEC Laboratories America.
 * 2022-12-02 Gave a presentation "Towards Fairer Recommender Systems through Deep Reinforcement Learning" at the Institute of Computing Technology, Chinese Academy of Sciences.
 * 2022-10-18 Our research on "Counterfactual Data Augmentation" accepted by WSDM'23.
 * 2022-06-28 Our research on "Federated Fairness" and "P5" accepted by RecSyc'22.
