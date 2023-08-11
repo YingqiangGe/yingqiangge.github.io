@@ -10,21 +10,41 @@ Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, Shuyuan Xu and Yongfeng Zhang
 [[paper](https://arxiv.org/pdf/2304.04370.pdf)]
 [[code](https://github.com/agiresearch/OpenAGI)]
 
+**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**\
+Wenyue Hua, Yingqiang Ge, Shuyuan Xu, Jianchao Ji, Yongfeng Zhang.\
+[[paper](https://arxiv.org/pdf/2305.12090.pdf)]
+
+**How to Index Item IDs for Recommendation Foundation Models**\
+Wenyue Hua, Shuyuan Xu, Yingqiang Ge, Yongfeng Zhang.\
+[[paper](https://arxiv.org/pdf/2305.06569.pdf)]
+
 **A Survey on Trustworthy Recommender Systems**\
 Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, Shuyuan Xu, Yunqi Li, Yikun Xian, Yongfeng Zhang.\
 [[paper](http://arxiv.org/abs/2207.12515)]
-
-**Fairness in Recommendation: A Survey**\
-Yunqi Li, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge, Juntao Tan, Shuchang Liu, Yongfeng Zhang.\
-[[paper](https://arxiv.org/pdf/2205.13619.pdf)]
 
 **Counterfactual Evaluation for Explainable AI**\
 Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao Tan, Fei Sun, Yongfeng Zhang.\
 [[paper](https://arxiv.org/abs/2109.01962)]
 
+## 2023
+**Automated Data Denoising for Recommendation**\
+Yingqiang Ge, Mostafa Rahmani, Athirai Irissappane, Jose Sepulveda, James Caverlee, Fei Wang.\
+*In Proceeding of the SIGKDD 2023 MARBLE Workshop.*
+[[paper](https://arxiv.org/abs/2305.07070)]
+
+**Fairness in Recommendation: A Survey**\
+Yunqi Li, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge, Juntao Tan, Shuchang Liu, Yongfeng Zhang.\
+*In Proceedings of the Transactions on Intelligent Systems and Technology (**ACM TIST**).*
+[[paper](https://arxiv.org/pdf/2205.13619.pdf)]
+
 **Causal Collabrative Filtering**\
 Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.\
+*In Proceedings of The 9th ACM SIGIR / The 13th International Conference on the Theory of Information Retrieval (**ICTIR'23**).*
 [[paper](https://arxiv.org/pdf/2102.01868.pdf)]
+
+**Counterfactual Collaborative Reasoning**\
+Jianchao Ji, Zelong Li, Shuyuan Xu, Max Xiong, Juntao Tan, Yingqiang Ge, Hao Wang, Yongfeng Zhang.\
+*In Proceedings of the 16th ACM International Conference on Web Search and Data Mining (**WSDM'23**).*
 
 ## 2022 
 **Fairness-aware Federated Matrix Factorization**\
