@@ -55,7 +55,8 @@ Jianchao Ji, Zelong Li, Shuyuan Xu, Max Xiong, Juntao Tan, Yingqiang Ge, Hao Wan
 ## 2022 
 **Fairness-aware Federated Matrix Factorization**\
 Shuchang Liu, Yingqiang Ge, Shuyuan Xu, Yongfeng Zhang, Amelie Marian.\
-*In Proceedings of the 16th ACM Recommender Systems Conference, Sept. 18 - 23, 2022., Seattle, WA, USA (**RecSys 22'**)*
+*In Proceedings of the 16th ACM Recommender Systems Conference, Sept. 18 - 23, 2022., Seattle, WA, USA (**RecSys 22'**)*\
+[[paper](https://dl.acm.org/doi/abs/10.1145/3523227.3546771)]
 
 **Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)**\
 Shijie Geng, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang.\
