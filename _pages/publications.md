@@ -89,7 +89,7 @@ Juntao Tan, Shijie Geng, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Yunqi Li, Yongfeng
 [[paper](https://arxiv.org/pdf/2202.08816.pdf)]
 
 **Path Language Modeling over Knowledge Graphs for Explainable Recommendation**\
-Shijie Geng, Zuohui Fu, Juntao Tan, Yingqiang Ge, Gerard de Melo and Yongfeng Zhang. 
+Shijie Geng, Zuohui Fu, Juntao Tan, Yingqiang Ge, Gerard de Melo and Yongfeng Zhang.\ 
 *In Proceedings of the Web Conference 2022, April 25 – 29, Online, hosted by Lyon, France (**WWW 22'**).*\
 [[paper](https://dl.acm.org/doi/10.1145/3485447.3511937)]
 
