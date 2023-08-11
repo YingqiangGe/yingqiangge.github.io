@@ -33,7 +33,7 @@ Yingqiang Ge, Mostafa Rahmani, Athirai Irissappane, Jose Sepulveda, James Caverl
 [[paper](https://arxiv.org/abs/2305.07070)]
 
 **User-Controllable Recommendation via Counterfactual Retrospective and Prospective Explanations**\
-Juntao Tan, Yingqiang Ge, Yan Zhu, Yinglong Xia, Jiebo Luo, Jianchao Ji, Yongfeng Zhang.\ 
+Juntao Tan, Yingqiang Ge, Yan Zhu, Yinglong Xia, Jiebo Luo, Jianchao Ji, Yongfeng Zhang.\
 *In Proceedings of the 26th European Conference on Artificial Intelligence (**ECAI 2023**)*.\
 [[paper](https://arxiv.org/pdf/2308.00894.pdf)]
 
