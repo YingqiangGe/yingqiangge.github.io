@@ -15,10 +15,12 @@ Currently, I'm a PhD Candidate in Computer Science Department at [Rutgers Univer
 
 My research interests lie in the interface of Machine Learning and Information Retrieval with specific focus on: Recommender System, Economic Recommendation, Explainable Recommendation, Fairness-aware Recommendation and Causal Recommendation. In addition, I also explore the interplay between interpretability and other areas of trustworthy ML, such as fairness and controllability.
 
-These days, I am fascinated by foundation models (e.g., GPT-4, LLaMA, T5), which are trained on vast data using self-supervision at an immense scale and can be tailored for a wide range of downstream tasks. Foundation models present a new perspective on AI system development and human-AI interaction. In the context of recommendation research, it is essential to investigate how to improve our understanding of their functioning and integrate them into recommendation scenarios, while optimizing their efficiency, modularity, robustness and trustworthiness.
+These days, I am fascinated by foundation models (e.g., GPT-4, LLaMA, T5), which are trained on vast data using self-supervision at an immense scale and can be tailored for a wide range of downstream tasks. Foundation models present a new perspective on AI system development and human-AI interaction. In the context of personalization, it is essential to investigate how to improve our understanding of their functioning and integrate them into personalized scenarios or systems, while optimizing their efficiency, modularity, robustness and trustworthiness.
 
 
 ## News
+* 2023-08-04 Our research on "Logistics Audience Expansion" accepted by CIKM'23.
+* 2023-07-17 Our survey on "Fairness in Recommendation" accepted by ACM TIST'23.
 * 2023-05-16 Gave a presentation "When LLMs Meet Domain Experts" at NEC Laboratories America.
 * 2022-12-02 Gave a presentation "Towards Fairer Recommender Systems through Deep Reinforcement Learning" at the Institute of Computing Technology, Chinese Academy of Sciences.
 * 2022-10-18 Our research on "Counterfactual Data Augmentation" accepted by WSDM'23.
