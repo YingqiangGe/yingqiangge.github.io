@@ -49,7 +49,7 @@ Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.\
 
 **Counterfactual Collaborative Reasoning**\
 Jianchao Ji, Zelong Li, Shuyuan Xu, Max Xiong, Juntao Tan, Yingqiang Ge, Hao Wang, Yongfeng Zhang.\
-*In Proceedings of the 16th ACM International Conference on Web Search and Data Mining (**WSDM'23**).*\
+*In Proceedings of the 16th ACM International Conference on Web Search and Data Mining (**WSDM'23**).*
 
 ## 2022 
 **Fairness-aware Federated Matrix Factorization**\
