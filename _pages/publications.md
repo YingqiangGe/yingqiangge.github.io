@@ -20,24 +20,24 @@ Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao
 ## 2023
 **OpenAGI: When LLM Meets Domain Experts**\
 Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, Shuyuan Xu and Yongfeng Zhang.\
-*In Proceedings of NeurIPS 2023, Datasets and Benchmarks, Dec 10 - 16, 2023,  New Orleans, USA.*\
+*In Proceedings of the Thirty-Seventh Annual Conference on Neural Information Processing Systems (**NeurIPS 23'**)  2023, Datasets and Benchmarks, Dec 10 - 16, 2023,  New Orleans, USA.*\
 [[paper](https://arxiv.org/pdf/2304.04370.pdf)]
 [[code](https://github.com/agiresearch/OpenAGI)]
 
 **How to Index Item IDs for Recommendation Foundation Models**\
 Wenyue Hua, Shuyuan Xu, Yingqiang Ge, Yongfeng Zhang.\
-*In Proceedings of 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP 2023), November 26 - 29, 2023, Beijing, China.*\
+*In Proceedings of 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (**SIGIR-AP 23'**), November 26 - 29, 2023, Beijing, China.*\
 [[paper](https://arxiv.org/pdf/2305.06569.pdf)]
 
 
 **Automated Data Denoising for Recommendation**\
 Yingqiang Ge, Mostafa Rahmani, Athirai Irissappane, Jose Sepulveda, James Caverlee, Fei Wang.\
-*In Proceeding of the SIGKDD 2023 MARBLE Workshop.*\
+*In Proceeding of the **SIGKDD 23'** MARBLE Workshop.*\
 [[paper](https://arxiv.org/abs/2305.07070)]
 
 **User-Controllable Recommendation via Counterfactual Retrospective and Prospective Explanations**\
 Juntao Tan, Yingqiang Ge, Yan Zhu, Yinglong Xia, Jiebo Luo, Jianchao Ji, Yongfeng Zhang.\
-*In Proceedings of the 26th European Conference on Artificial Intelligence (**ECAI 2023**)*.\
+*In Proceedings of the 26th European Conference on Artificial Intelligence (**ECAI 23'**)*.\
 [[paper](https://arxiv.org/pdf/2308.00894.pdf)]
 
 **Fairness in Recommendation: A Survey**\
@@ -47,12 +47,12 @@ Yunqi Li, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge, Juntao Tan, Shuchang Liu, Yon
 
 **Causal Collabrative Filtering**\
 Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.\
-*In Proceedings of The 9th ACM SIGIR / The 13th International Conference on the Theory of Information Retrieval (**ICTIR'23**).*\
+*In Proceedings of The 9th ACM SIGIR / The 13th International Conference on the Theory of Information Retrieval (**ICTIR 23'**).*\
 [[paper](https://arxiv.org/pdf/2102.01868.pdf)]
 
 **Counterfactual Collaborative Reasoning**\
 Jianchao Ji, Zelong Li, Shuyuan Xu, Max Xiong, Juntao Tan, Yingqiang Ge, Hao Wang, Yongfeng Zhang.\
-*In Proceedings of the 16th ACM International Conference on Web Search and Data Mining (**WSDM'23**).*\
+*In Proceedings of the 16th ACM International Conference on Web Search and Data Mining (**WSDM 23'**).*\
 [[paper](https://arxiv.org/pdf/2307.00165.pdf)]
 
 ## 2022 
