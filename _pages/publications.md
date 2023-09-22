@@ -20,7 +20,7 @@ Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao
 ## 2023
 **OpenAGI: When LLM Meets Domain Experts**\
 Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, Shuyuan Xu and Yongfeng Zhang.\
-*In Proceedings of the Thirty-Seventh Annual Conference on Neural Information Processing Systems (**NeurIPS 23'**)  2023, Datasets and Benchmarks, Dec 10 - 16, 2023,  New Orleans, USA.*\
+*In Proceedings of the Thirty-Seventh Annual Conference on Neural Information Processing Systems (**NeurIPS 23'**), 2023, Datasets and Benchmarks, Dec 10 - 16, 2023,  New Orleans, USA.*\
 [[paper](https://arxiv.org/pdf/2304.04370.pdf)]
 [[code](https://github.com/agiresearch/OpenAGI)]
 
