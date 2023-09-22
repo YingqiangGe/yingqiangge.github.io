@@ -19,7 +19,7 @@ These days, I am fascinated by foundation models (e.g., GPT-4, LLaMA, T5), which
 
 
 ## News
-* 2023-09-22 Our research on LLM-based Agents accepted by NeurIPS'23, Datasets and Benchmarks.
+* 2023-09-22 Our research framework for LLM-based Agents, OpenAGI accepted by NeurIPS'23, Datasets and Benchmarks.
 * 2023-08-04 Our research on "Logistics Audience Expansion" accepted by CIKM'23.
 * 2023-07-17 Our survey on "Fairness in Recommendation" accepted by ACM TIST'23.
 * 2023-07-15 Our research on "User-Controllable Recommendation" accepted by ECAI'23
