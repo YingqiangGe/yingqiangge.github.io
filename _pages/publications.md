@@ -32,7 +32,7 @@ Wenyue Hua, Shuyuan Xu, Yingqiang Ge, Yongfeng Zhang.\
 
 **Automated Data Denoising for Recommendation**\
 Yingqiang Ge, Mostafa Rahmani, Athirai Irissappane, Jose Sepulveda, James Caverlee, Fei Wang.\
-*In Proceeding of the **SIGKDD 23'** MARBLE Workshop.*\
+*In Proceeding of the **SIGKDD 23'** MARBLE Workshop, Aug 6 – 10, 2023, Long Beach, CA, USA.*\
 [[paper](https://arxiv.org/abs/2305.07070)]
 
 **User-Controllable Recommendation via Counterfactual Retrospective and Prospective Explanations**\
