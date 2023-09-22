@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprints
-**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**\
-Wenyue Hua, Yingqiang Ge, Shuyuan Xu, Jianchao Ji, Yongfeng Zhang.\
-[[paper](https://arxiv.org/pdf/2305.12090.pdf)]
-
 **A Survey on Trustworthy Recommender Systems**\
 Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, Shuyuan Xu, Yunqi Li, Yikun Xian, Yongfeng Zhang.\
 [[paper](http://arxiv.org/abs/2207.12515)]
+
+**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**\
+Wenyue Hua, Yingqiang Ge, Shuyuan Xu, Jianchao Ji, Yongfeng Zhang.\
+[[paper](https://arxiv.org/pdf/2305.12090.pdf)]
 
 **Counterfactual Evaluation for Explainable AI**\
 Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao Tan, Fei Sun, Yongfeng Zhang.\
