@@ -5,18 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprints
-**OpenAGI: When LLM Meets Domain Experts**\
-Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, Shuyuan Xu and Yongfeng Zhang.\
-[[paper](https://arxiv.org/pdf/2304.04370.pdf)]
-[[code](https://github.com/agiresearch/OpenAGI)]
-
 **UP5: Unbiased Foundation Model for Fairness-aware Recommendation**\
 Wenyue Hua, Yingqiang Ge, Shuyuan Xu, Jianchao Ji, Yongfeng Zhang.\
 [[paper](https://arxiv.org/pdf/2305.12090.pdf)]
-
-**How to Index Item IDs for Recommendation Foundation Models**\
-Wenyue Hua, Shuyuan Xu, Yingqiang Ge, Yongfeng Zhang.\
-[[paper](https://arxiv.org/pdf/2305.06569.pdf)]
 
 **A Survey on Trustworthy Recommender Systems**\
 Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, Shuyuan Xu, Yunqi Li, Yikun Xian, Yongfeng Zhang.\
@@ -27,6 +18,18 @@ Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao
 [[paper](https://arxiv.org/abs/2109.01962)]
 
 ## 2023
+**OpenAGI: When LLM Meets Domain Experts**\
+Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, Shuyuan Xu and Yongfeng Zhang.\
+*In Proceedings of NeurIPS 2023, Datasets and Benchmarks, Dec 10 - 16, 2023,  New Orleans, USA.*\
+[[paper](https://arxiv.org/pdf/2304.04370.pdf)]
+[[code](https://github.com/agiresearch/OpenAGI)]
+
+**How to Index Item IDs for Recommendation Foundation Models**\
+Wenyue Hua, Shuyuan Xu, Yingqiang Ge, Yongfeng Zhang.\
+*In Proceedings of 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP 2023), November 26 - 29, 2023, Beijing, China.*\
+[[paper](https://arxiv.org/pdf/2305.06569.pdf)]
+
+
 **Automated Data Denoising for Recommendation**\
 Yingqiang Ge, Mostafa Rahmani, Athirai Irissappane, Jose Sepulveda, James Caverlee, Fei Wang.\
 *In Proceeding of the SIGKDD 2023 MARBLE Workshop.*\
