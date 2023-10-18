@@ -11,7 +11,7 @@ redirect_from:
 ## About Me
 Welcome!
 
-I'm Yingqiang Ge. I received my Ph.D. in Computer Science Department at [Rutgers University, New Brunswick, NJ](https://www.rutgers.edu/). And I am fortunate enough to have [Prof. Yongfeng Zhang](http://yongfeng.me/) as my supervisor. Before that, I received M.S. degree from Rutgers University in 2019 and B.S. degree from [Zhengzhou University](http://english.zzu.edu.cn/) in 2017.
+I'm Yingqiang Ge. I earned my Ph.D. degree in Computer Science Department at [Rutgers University, New Brunswick, NJ](https://www.rutgers.edu/). And I am fortunate enough to have [Prof. Yongfeng Zhang](http://yongfeng.me/) as my supervisor. Before that, I received M.S. degree from Rutgers University in 2019 and B.S. degree from [Zhengzhou University](http://english.zzu.edu.cn/) in 2017.
 
 My research interests lie in the interface of Machine Learning and Information Retrieval with specific focus on: Recommender System, Economic Recommendation, Explainable Recommendation, Fairness-aware Recommendation and Causal Recommendation. In addition, I also explore the interplay between interpretability and other areas of trustworthy ML, such as fairness and controllability.
 
