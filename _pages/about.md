@@ -11,9 +11,9 @@ redirect_from:
 ## About Me
 Welcome!
 
-I'm Yingqiang Ge, a research assistant at Rutger University. I earned my Ph.D. degree in the Computer Science Department at [Rutgers University, New Brunswick, NJ](https://www.rutgers.edu/), supervised by [Prof. Yongfeng Zhang](http://yongfeng.me/). Before that, I received M.S. degree from Rutgers University in 2019 and B.S. degree from [Zhengzhou University](http://english.zzu.edu.cn/) in 2017.
+I'm Yingqiang Ge, a research assistant at Rutger University. I earned my Ph.D. degree in the Computer Science Department at [Rutgers University, New Brunswick, NJ](https://www.rutgers.edu/) in 2023, under the supervision of [Prof. Yongfeng Zhang](http://yongfeng.me/). Before that, I received M.S. degree from Rutgers University in 2019 and B.S. degree from [Zhengzhou University](http://english.zzu.edu.cn/) in 2017.
 
-My research interests lie in the interface of Machine Learning and Information Retrieval with specific focus on: Recommender System, Economic Recommendation, Explainable Recommendation, Fairness-aware Recommendation and Causal Recommendation. In addition, I also explore the interplay between interpretability and other areas of trustworthy ML, such as fairness and controllability.
+My research interests lie in the interface of Machine Learning and Information Retrieval with specific focus on: Recommender System, Economic Recommendation, Explainable Recommendation, Fairness-aware Recommendation and Causal Recommendation. In addition, I also explore the interplay between different areas of trustworthy AI.
 
 These days, I am fascinated by foundation models (e.g., GPT-4, LLaMA), which are trained on vast data using self-supervision at an immense scale and can be tailored for a wide range of downstream tasks. Foundation models present a new perspective on AI system development and human-AI interaction. In the context of personalization, it is essential to investigate how to improve our understanding of their functioning and integrate them into personalized scenarios or systems, while optimizing their efficiency, modularity, robustness and trustworthiness.
 
