@@ -11,7 +11,7 @@ redirect_from:
 ## About Me
 Welcome!
 
-Currently, I'm a PhD Candidate in Computer Science Department at [Rutgers University, New Brunswick, NJ](https://www.rutgers.edu/). And I am fortunate enough to have [Prof. Yongfeng Zhang](http://yongfeng.me/) as my supervisor. Before that, I received M.S. degree from Rutgers University in 2019 and B.S. degree from [Zhengzhou University](http://english.zzu.edu.cn/) in 2017.
+I'm Yingqiang Ge. I received my Ph.D. in Computer Science Department at [Rutgers University, New Brunswick, NJ](https://www.rutgers.edu/). And I am fortunate enough to have [Prof. Yongfeng Zhang](http://yongfeng.me/) as my supervisor. Before that, I received M.S. degree from Rutgers University in 2019 and B.S. degree from [Zhengzhou University](http://english.zzu.edu.cn/) in 2017.
 
 My research interests lie in the interface of Machine Learning and Information Retrieval with specific focus on: Recommender System, Economic Recommendation, Explainable Recommendation, Fairness-aware Recommendation and Causal Recommendation. In addition, I also explore the interplay between interpretability and other areas of trustworthy ML, such as fairness and controllability.
 
@@ -19,6 +19,7 @@ These days, I am fascinated by foundation models (e.g., GPT-4, LLaMA, T5), which
 
 
 ## News
+* 2023-10-17 Successfully defended my PhD degree on the topic of "Towards Trustworthy Recommender Systems"! Proudly hold the title of Dr.!*
 * 2023-09-22 Our research framework for LLM-based Agents, OpenAGI accepted by NeurIPS'23, Datasets and Benchmarks.
 * 2023-08-04 Our research on "Logistics Audience Expansion" accepted by CIKM'23.
 * 2023-07-17 Our survey on "Fairness in Recommendation" accepted by ACM TIST'23.
