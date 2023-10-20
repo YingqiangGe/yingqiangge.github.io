@@ -19,7 +19,7 @@ These days, I am fascinated by foundation models (e.g., GPT-4, LLaMA), which are
 
 
 ## News
-* 2023-10-19 Gave a guest lecture on "Big Data Mining" for CS 483, Department of Computer Science, UIC.
+* 2023-10-19 Gave a guest lecture for CS 483 (Big Data Mining), Department of Computer Science, UIC.
 * 2023-10-17 Successfully defended my PhD degree on the topic of "Towards Trustworthy Recommender Systems" and proudly hold the title of Dr.!*
 * 2023-09-22 Our research framework for LLM-based Agents, OpenAGI accepted by NeurIPS'23, Datasets and Benchmarks.
 * 2023-08-04 Our research on "Logistics Audience Expansion" accepted by CIKM'23.
