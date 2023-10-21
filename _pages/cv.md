@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Rutgers University, 2019 - 2023 (expected)
+* Ph.D. in Computer Science, Rutgers University, 2019 - 2023
 * M.S. in Computer Science, Rutgers University, 2017 - 2019
 * B.S. in Computational Mathematics, Zhengzhou University, 2013 - 2017
 
