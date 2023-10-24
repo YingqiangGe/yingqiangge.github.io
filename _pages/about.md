@@ -19,8 +19,9 @@ These days, I am fascinated by foundation models (e.g., GPT-4, LLaMA), which are
 
 
 ## News
+* 2023-10-24 Received NeurIPS 2023 Scholar Award.
 * 2023-10-19 Gave a guest lecture for CS 483 (Big Data Mining), Department of Computer Science, UIC.
-* 2023-10-17 Successfully defended my PhD degree on the topic of "Towards Trustworthy Recommender Systems" and proudly hold the title of Dr.!*
+* 2023-10-17 Successfully defended my PhD degree on the topic of "Towards Trustworthy Recommender Systems" and proudly hold the title of Dr.!
 * 2023-09-22 Our research framework for LLM-based Agents, OpenAGI accepted by NeurIPS'23, Datasets and Benchmarks.
 * 2023-08-04 Our research on "Logistics Audience Expansion" accepted by CIKM'23.
 * 2023-07-17 Our survey on "Fairness in Recommendation" accepted by ACM TIST'23.
@@ -53,7 +54,7 @@ These days, I am fascinated by foundation models (e.g., GPT-4, LLaMA), which are
 <!-- * *Information Retrieval*:  Explainable Recommendation, Conversational Recommendation, User Behavior Modeling, Schema Matching -->
 
 <!-- ## Education
-* Ph.D in Computer Science, Rutgers University, 2019 - 2023 (expected)
+* Ph.D in Computer Science, Rutgers University, 2019 - 2023
 * M.S. in Computer Science, Rutgers University, 2017 - 2019
 * B.S. in Computational Mathematics, Zhengzhou University, 2013 - 2017 -->
 <!-- 
@@ -84,6 +85,7 @@ These days, I am fascinated by foundation models (e.g., GPT-4, LLaMA), which are
   * CS112 (Data Structures) -->
   
 <!-- ## Awards
+* NeurIPS 2023 Scholar Award, 2023
 * ACM WSDM'22 Student Travel Awards, 2022
 * SIGIR Student Travel Grant, 2021
 * Outstanding Research Internship of Alibaba Group, 2020
