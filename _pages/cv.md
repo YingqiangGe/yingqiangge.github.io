@@ -67,6 +67,7 @@ Service and leadership
 
 Awards
 ======
+* NeurIPS 2023 Scholar Award, 2023
 * SIGIR Student Travel Grant, 2022
 * WSDM Student Travel Grant, 2022
 * SIGIR Student Travel Grant, 2021
