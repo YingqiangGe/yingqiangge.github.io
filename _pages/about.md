@@ -11,7 +11,7 @@ redirect_from:
 ## About Me
 Welcome!
 
-I'm Yingqiang Ge, a research assistant at Rutger University. I earned my Ph.D. degree in the Computer Science Department at [Rutgers University, New Brunswick, NJ](https://www.rutgers.edu/) in 2023, under the supervision of [Prof. Yongfeng Zhang](http://yongfeng.me/). Before that, I received M.S. degree from Rutgers University in 2019 and B.S. degree from [Zhengzhou University](http://english.zzu.edu.cn/) in 2017.
+I'm Yingqiang Ge, an Applied Scientist at Amazon. I earned my Ph.D. degree in the Computer Science Department at [Rutgers University, New Brunswick, NJ](https://www.rutgers.edu/) in 2023, under the supervision of [Prof. Yongfeng Zhang](http://yongfeng.me/). Before that, I received M.S. degree from Rutgers University in 2019 and B.S. degree from [Zhengzhou University](http://english.zzu.edu.cn/) in 2017.
 
 My research interests lie in the interface of Machine Learning and Information Retrieval with specific focus on: Recommender System, Economic Recommendation, Explainable Recommendation, Fairness-aware Recommendation and Causal Recommendation. In addition, I also explore the interplay between recommender systems and various perspectives of Trustworthy AI.
 
@@ -19,6 +19,7 @@ These days, I am fascinated by foundation models (e.g., GPT-4, LLaMA), which are
 
 
 ## News
+* 2023-12-11 Started a new position as Applied Scientist at Amazon.
 * 2023-10-24 Received NeurIPS 2023 Scholar Award.
 * 2023-10-19 Gave a guest lecture for CS 483 (Big Data Mining), Department of Computer Science, UIC.
 * 2023-10-17 Successfully defended my PhD degree on the topic of "Towards Trustworthy Recommender Systems" and proudly hold the title of Dr.!
