@@ -15,8 +15,10 @@ Education
 * M.S. in Computer Science, Rutgers University, 2017 - 2019
 * B.S. in Computational Mathematics, Zhengzhou University, 2013 - 2017
 
-Work experience
+Experience
 ======
+* Amazon, Santa Clara, CA
+  * Applied Scientist II,  Dec. 2023 - Present
 * Amazon, Seattle, WA
   * Applied Scientist Intern,  May 2022 - Aug. 2022
   * Working closely with Dr. [Fei Wang](https://scholar.google.com/citations?user=kTt-XfEAAAAJ&hl=en&oi=ao), Dr. [Mostafa Rahmani](https://scholar.google.com/citations?user=Sdn8qIYAAAAJ&hl=en)
