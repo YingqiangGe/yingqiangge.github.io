@@ -19,6 +19,7 @@ These days, I am fascinated by foundation models (e.g., GPT-4, LLaMA), which are
 
 
 ## News
+* 2024-02-19 Our survey on Trustworthy Recommender Systems has been accepted for publication in ACM Transactions on Recommender Systems.
 * 2023-12-11 Started a new position as Applied Scientist at Amazon.
 * 2023-10-24 Received NeurIPS 2023 Scholar Award.
 * 2023-10-19 Gave a guest lecture for CS 483 (Big Data Mining), Department of Computer Science, UIC.
