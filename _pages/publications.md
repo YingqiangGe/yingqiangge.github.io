@@ -5,17 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprints
-**A Survey on Trustworthy Recommender Systems**\
-Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, Shuyuan Xu, Yunqi Li, Yikun Xian, Yongfeng Zhang.\
-[[paper](http://arxiv.org/abs/2207.12515)]
+**LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem**\
+Yingqiang Ge, Yujie Ren, Wenyue Hua, Shuyuan Xu, Juntao Tan, Yongfeng Zhang.\
+[[paper](https://arxiv.org/pdf/2312.03815v2.pdf)]
 
-**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**\
-Wenyue Hua, Yingqiang Ge, Shuyuan Xu, Jianchao Ji, Yongfeng Zhang.\
-[[paper](https://arxiv.org/pdf/2305.12090.pdf)]
+**PAP-REC: Personalized Automatic Prompt for Recommendation Language Model**\
+Zelong Li, Jianchao Ji, Yingqiang Ge, Wenyue Hua, Yongfeng Zhang.\
+[[paper](https://arxiv.org/pdf/2402.00284v1.pdf)]
+
+**War and peace (waragent): Large language model-based multi-agent simulation of world wars**\
+Wenyue Hua, Lizhou Fan, Lingyao Li, Kai Mei, Jianchao Ji, Yingqiang Ge, Libby Hemphill, Yongfeng Zhang.\
+[[paper](https://arxiv.org/pdf/2311.17227.pdf)]
 
 **Counterfactual Evaluation for Explainable AI**\
 Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao Tan, Fei Sun, Yongfeng Zhang.\
 [[paper](https://arxiv.org/abs/2109.01962)]
+
+## 2024 
+**A Survey on Trustworthy Recommender Systems**\
+Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, Shuyuan Xu, Yunqi Li, Yikun Xian, Yongfeng Zhang.\
+In Proceedings of the Transactions on Recommender Systems (**ACM TORS**).*\
+[[paper](http://arxiv.org/abs/2207.12515)]
+
+**UP5: Unbiased Foundation Model for Fairness-aware Recommendation**\
+Wenyue Hua, Yingqiang Ge, Shuyuan Xu, Jianchao Ji, Yongfeng Zhang.\
+In Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (**EACL 2024**).*\
+[[paper](https://arxiv.org/pdf/2305.12090.pdf)]
 
 ## 2023
 **OpenAGI: When LLM Meets Domain Experts**\
@@ -29,6 +44,10 @@ Wenyue Hua, Shuyuan Xu, Yingqiang Ge, Yongfeng Zhang.\
 *In Proceedings of 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (**SIGIR-AP 23'**), November 26 - 29, 2023, Beijing, China.*\
 [[paper](https://arxiv.org/pdf/2305.06569.pdf)]
 
+**Logistics Audience Expansion via Temporal Knowledge Graph**\
+Hua Yan, Yingqiang Ge, Haotian Wang, Desheng Zhang, Yu Yang.\
+*In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management.*\
+[[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614695)]
 
 **Automated Data Denoising for Recommendation**\
 Yingqiang Ge, Mostafa Rahmani, Athirai Irissappane, Jose Sepulveda, James Caverlee, Fei Wang.\
