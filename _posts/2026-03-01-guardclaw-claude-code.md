@@ -8,11 +8,11 @@ tags:
   - GuardClaw
 ---
 
-In a [previous post](/posts/2026/02/guardclaw-openclaw/), I described how [GuardClaw](https://github.com/agiresearch/GuardClaw) secures multi-agent workflows on OpenClaw. Today I want to focus on a simpler but equally common use case: **Claude Code**.
+In a [previous post](/posts/2026/02/guardclaw-openclaw/), I described how [GuardClaw](https://github.com/TobyGE/GuardClaw) secures multi-agent workflows on OpenClaw. Today I want to focus on a simpler but equally common use case: **Claude Code**.
 
 If you use Claude Code, you have probably faced a familiar dilemma: the default permission mode interrupts you for every shell command and file write, making autonomous workflows painfully slow. The alternative — `--dangerously-skip-permissions` — removes all guardrails entirely, which is exactly as risky as the flag name suggests. There is no middle ground out of the box.
 
-[GuardClaw](https://github.com/agiresearch/GuardClaw) is an open-source tool I built to fill this gap. It acts as an intelligent permission layer that auto-approves safe operations and only surfaces genuinely dangerous ones for human review.
+[GuardClaw](https://github.com/TobyGE/GuardClaw) is an open-source tool I built to fill this gap. It acts as an intelligent permission layer that auto-approves safe operations and only surfaces genuinely dangerous ones for human review.
 
 ## The Problem: All or Nothing
 
@@ -79,7 +79,7 @@ But when something genuinely risky happens, GuardClaw flags it with a clear expl
 
 ## Setup
 
-GuardClaw integrates with Claude Code through a simple hooks configuration in `~/.claude/settings.json`. It works identically whether you use Claude Code from the terminal or the VS Code extension. Full setup instructions are in the [README](https://github.com/agiresearch/GuardClaw).
+GuardClaw integrates with Claude Code through a simple hooks configuration in `~/.claude/settings.json`. It works identically whether you use Claude Code from the terminal or the VS Code extension. Full setup instructions are in the [README](https://github.com/TobyGE/GuardClaw).
 
 ## Why This Matters
 
@@ -87,4 +87,4 @@ As AI coding agents become more capable, they need more autonomy to be useful �
 
 GuardClaw is our attempt at a practical middle ground: an agent safety layer that is transparent, local, adaptive, and open source. It is part of a broader research agenda on [agentic safety](/posts/2025/07/agentic-safety/) that I believe will become increasingly critical as agents move from writing code to deploying it.
 
-If you are building with Claude Code and want smarter permission control, give [GuardClaw](https://github.com/agiresearch/GuardClaw) a try. Contributions and feedback are welcome.
+If you are building with Claude Code and want smarter permission control, give [GuardClaw](https://github.com/TobyGE/GuardClaw) a try. Contributions and feedback are welcome.
