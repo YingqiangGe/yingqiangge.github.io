@@ -9,7 +9,9 @@ tags:
   - multi-agent
 ---
 
-In a [previous post](/posts/2026/03/guardclaw-claude-code/), I introduced GuardClaw as a smart permission layer for Claude Code — solving the "too strict vs. too loose" permission dilemma for single-agent coding sessions. But Claude Code is a relatively controlled environment: one agent, one user, one terminal. What happens when agents operate across multiple sessions, spawn sub-agents, and interact with real-world messaging channels?
+In a [recent post](/posts/2026/02/agentic-safety/), I argued that agentic safety is the next frontier — that we need to reason about what AI agents *do*, not just what they *say*. [GuardClaw](https://github.com/agiresearch/GuardClaw) is our open-source answer to that challenge: a safety layer that evaluates every tool call an agent makes, auto-approves safe operations, and flags dangerous ones for human review.
+
+But most safety discussions focus on single-agent settings — one agent, one user, one terminal. What happens when agents operate across multiple sessions, spawn sub-agents, and interact with real-world messaging channels?
 
 This is the problem [OpenClaw](https://github.com/agiresearch/OpenClaw) was built to solve — and it is where GuardClaw's security model faces its hardest test.
 
@@ -122,4 +124,4 @@ Both GuardClaw and OpenClaw are open source. If you are building agent systems a
 
 - [GuardClaw on GitHub](https://github.com/agiresearch/GuardClaw)
 - [OpenClaw on GitHub](https://github.com/agiresearch/OpenClaw)
-- [GuardClaw + Claude Code](/posts/2026/03/guardclaw-claude-code/) (companion post)
+- [GuardClaw + Claude Code](/posts/2026/03/guardclaw-claude-code/) (upcoming companion post)

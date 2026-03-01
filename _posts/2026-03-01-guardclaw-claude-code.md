@@ -8,6 +8,8 @@ tags:
   - GuardClaw
 ---
 
+In a [previous post](/posts/2026/02/guardclaw-openclaw/), I described how [GuardClaw](https://github.com/agiresearch/GuardClaw) secures multi-agent workflows on OpenClaw. Today I want to focus on a simpler but equally common use case: **Claude Code**.
+
 If you use Claude Code, you have probably faced a familiar dilemma: the default permission mode interrupts you for every shell command and file write, making autonomous workflows painfully slow. The alternative — `--dangerously-skip-permissions` — removes all guardrails entirely, which is exactly as risky as the flag name suggests. There is no middle ground out of the box.
 
 [GuardClaw](https://github.com/agiresearch/GuardClaw) is an open-source tool I built to fill this gap. It acts as an intelligent permission layer that auto-approves safe operations and only surfaces genuinely dangerous ones for human review.
