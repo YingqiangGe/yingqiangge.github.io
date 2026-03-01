@@ -24,11 +24,7 @@ author:
   # Biographic information
   avatar           : "YG.JPG"
   name             : "Yingqiang Ge"
-  bio              : |
-    Ph.D., <br>
-    WISE Lab, <br>
-    CS Department, <br>
-    Rutgers, the State University of New Jersey
+  bio              : "Ph.D. in Machine Learning"
   location         : "NYC, NY"
   employer         :
   uri              :

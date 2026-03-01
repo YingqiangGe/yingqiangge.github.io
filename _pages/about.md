@@ -9,13 +9,12 @@ redirect_from:
 ---
 
 ## About Me
-Welcome!
 
-I'm Yingqiang Ge, an Applied Scientist at Amazon. I earned my Ph.D. degree in the Computer Science Department at [Rutgers University, New Brunswick, NJ](https://www.rutgers.edu/) in 2023, under the supervision of [Prof. Yongfeng Zhang](http://yongfeng.me/). Before that, I received M.S. degree from Rutgers University in 2019 and B.S. degree from [Zhengzhou University](http://english.zzu.edu.cn/) in 2017.
+I'm Yingqiang Ge, an Applied Scientist at Amazon. I got my Ph.D. from [Rutgers University](https://www.rutgers.edu/) (2023, advised by [Prof. Yongfeng Zhang](http://yongfeng.me/)), where I worked on Trustworthy AI, fairness, and explainability in recommender systems.
 
-My current research focuses on **Agentic Safety** — ensuring that autonomous AI agents operate reliably, securely, and in alignment with human intent. As LLM-based agents become increasingly capable of taking real-world actions (e.g., executing code, calling APIs, managing systems), it is critical to develop mechanisms for runtime risk assessment, safe tool use, and human-in-the-loop oversight. I am building systems like [GuardClaw](https://github.com/TobyGE), a real-time safety interception framework that evaluates tool-call risks before execution and enforces approval workflows for high-risk operations.
+During my PhD, I published extensively on fairness-aware recommendation, causal reasoning, and explainable AI at top venues including SIGIR, WSDM, WWW, ACL, and NeurIPS. I also co-created [OpenAGI](https://github.com/agiresearch/OpenAGI), an open-source research platform for LLM-based agents, and contributed to [P5](https://arxiv.org/abs/2203.13366), one of the early works on unifying recommendation as language processing.
 
-More broadly, my research spans Trustworthy AI, LLM-based Agents, and Recommender Systems, with previous work on explainability, fairness, and causal reasoning in AI systems. I am interested in bridging the gap between the growing autonomy of AI agents and the safety guarantees required for their responsible deployment.
+My personal research interest is **Agentic Safety** — making sure autonomous AI agents act reliably and safely in the real world. As agents move from answering questions to taking actions — executing code, calling APIs, managing infrastructure — the safety challenges are fundamentally different from traditional AI. I build open-source systems like [AIOS](https://github.com/agiresearch/AIOS) (an LLM agent operating system, published at COLM 2025) and [GuardClaw](https://github.com/TobyGE) (a real-time safety interception framework), exploring how to give AI agents more autonomy without losing human control.
 
 
 ## News
