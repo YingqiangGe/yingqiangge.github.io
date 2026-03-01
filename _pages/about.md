@@ -13,9 +13,9 @@ Welcome!
 
 I'm Yingqiang Ge, an Applied Scientist at Amazon. I earned my Ph.D. degree in the Computer Science Department at [Rutgers University, New Brunswick, NJ](https://www.rutgers.edu/) in 2023, under the supervision of [Prof. Yongfeng Zhang](http://yongfeng.me/). Before that, I received M.S. degree from Rutgers University in 2019 and B.S. degree from [Zhengzhou University](http://english.zzu.edu.cn/) in 2017.
 
-My research interests lie in the interface of Machine Learning and Information Retrieval with specific focus on: Recommender System, Economic Recommendation, Explainable Recommendation, Fairness-aware Recommendation and Causal Recommendation. In addition, I also explore the interplay between recommender systems and various perspectives of Trustworthy AI.
+My current research focuses on **Agentic Safety** — ensuring that autonomous AI agents operate reliably, securely, and in alignment with human intent. As LLM-based agents become increasingly capable of taking real-world actions (e.g., executing code, calling APIs, managing systems), it is critical to develop mechanisms for runtime risk assessment, safe tool use, and human-in-the-loop oversight. I am building systems like [GuardClaw](https://github.com/TobyGE), a real-time safety interception framework that evaluates tool-call risks before execution and enforces approval workflows for high-risk operations.
 
-These days, I am fascinated by foundation models (e.g., GPT-4, LLaMA), which are trained on vast data using self-supervision at an immense scale and can be tailored for a wide range of downstream tasks. Foundation models present a new perspective on AI system development and human-AI interaction. In the context of personalization, it is essential to investigate how to improve our understanding of their functioning and integrate them into personalized scenarios or systems, while optimizing their efficiency, modularity, robustness and trustworthiness.
+More broadly, my research spans Trustworthy AI, LLM-based Agents, and Recommender Systems, with previous work on explainability, fairness, and causal reasoning in AI systems. I am interested in bridging the gap between the growing autonomy of AI agents and the safety guarantees required for their responsible deployment.
 
 
 ## News
