@@ -57,4 +57,4 @@ My personal research interest is **Agentic Safety** — making sure autonomous A
 * 2019-01-20 Our recent research on bridging machine learning and economic principles for economic analysis of web-based systems is accepted by the Web Conference 2019 (WWW 2019).
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1rCnpCekKUrfKHyfSXxsKj7j_eK6DIUn7r2WYD7VX88&cl=ffffff&w=a"></script>
+<!-- ClustrMaps moved to site-wide footer (_includes/footer/custom.html) -->
