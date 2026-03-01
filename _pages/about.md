@@ -19,6 +19,11 @@ More broadly, my research spans Trustworthy AI, LLM-based Agents, and Recommende
 
 
 ## News
+* 2025-07-01 Our paper "AIOS: LLM Agent Operating System" has been accepted by COLM 2025.
+* 2025-03-01 Our survey "Causal Inference for Recommendation" has been accepted for publication in ACM Transactions on Intelligent Systems and Technology (ACM TIST).
+* 2025-01-15 Our survey on Trustworthy Recommender Systems has been published in ACM Transactions on Recommender Systems (ACM TORS).
+* 2024-07-14 Our paper "IDGenRec: LLM-RecSys Alignment with Textual ID Learning" accepted by SIGIR 2024.
+* 2024-03-20 Our paper "GenRec: Large Language Model for Generative Recommendation" accepted by ECIR 2024.
 * 2024-02-19 Our survey on Trustworthy Recommender Systems has been accepted for publication in ACM Transactions on Recommender Systems.
 * 2023-12-11 Started a new position as Applied Scientist at Amazon.
 * 2023-10-24 Received NeurIPS 2023 Scholar Award.

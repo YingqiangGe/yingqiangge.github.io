@@ -21,15 +21,38 @@ Wenyue Hua, Lizhou Fan, Lingyao Li, Kai Mei, Jianchao Ji, Yingqiang Ge, Libby He
 Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao Tan, Fei Sun, Yongfeng Zhang.\
 [[paper](https://arxiv.org/abs/2109.01962)]
 
-## 2024 
+## 2025
+**AIOS: LLM Agent Operating System**\
+Kai Mei, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang.\
+*In Proceedings of the Conference on Language Modeling (**COLM 2025**).*\
+[[paper](https://arxiv.org/abs/2403.16971)]
+[[code](https://github.com/agiresearch/AIOS)]
+
+**Causal Inference for Recommendation: Foundations, Methods, and Applications**\
+Shuyuan Xu, Jianchao Ji, Yunqi Li, Juntao Tan, Yingqiang Ge, Yongfeng Zhang.\
+*In Proceedings of the ACM Transactions on Intelligent Systems and Technology (**ACM TIST**).*\
+[[paper](https://dl.acm.org/journal/tist)]
+
 **A Survey on Trustworthy Recommender Systems**\
 Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, Shuyuan Xu, Yunqi Li, Yikun Xian, Yongfeng Zhang.\
-In Proceedings of the Transactions on Recommender Systems (**ACM TORS**).*\
+*In Proceedings of the ACM Transactions on Recommender Systems (**ACM TORS**).*\
 [[paper](http://arxiv.org/abs/2207.12515)]
+
+## 2024
+**IDGenRec: LLM-RecSys Alignment with Textual ID Learning**\
+Juntao Tan, Shuyuan Xu, Wenyue Hua, Yingqiang Ge, Zelong Li, Yongfeng Zhang.\
+*In Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 24'**).*\
+[[paper](https://dl.acm.org/doi/10.1145/3626772.3657821)]
+[[code](https://github.com/agiresearch/IDGenRec)]
+
+**GenRec: Large Language Model for Generative Recommendation**\
+Jianchao Ji, Zelong Li, Shuyuan Xu, Wenyue Hua, Juntao Tan, Yingqiang Ge, Yongfeng Zhang.\
+*In Proceedings of the 46th European Conference on Information Retrieval (**ECIR 24'**).*\
+[[paper](https://arxiv.org/abs/2307.00457)]
 
 **UP5: Unbiased Foundation Model for Fairness-aware Recommendation**\
 Wenyue Hua, Yingqiang Ge, Shuyuan Xu, Jianchao Ji, Yongfeng Zhang.\
-In Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (**EACL 2024**).*\
+*In Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (**EACL 2024**).*\
 [[paper](https://arxiv.org/pdf/2305.12090.pdf)]
 
 ## 2023
