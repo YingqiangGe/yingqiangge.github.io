@@ -50,9 +50,9 @@ My personal research interest is **Agentic Safety** — making sure autonomous A
 * 2021-04-27 Our proposal "Fairness of Machine Learning in Recommender Systems" has been accepted for presentation as a tutorial at the SIGIR 2021.
 * 2021-04-14 Our research on "Personalized Fairness" is accepted by SIGIR 2021.
 * 2021-01-17 Received SIGIR Student Travel Grant.
-* 2021-01-16 Papers on "Fairness", "Generative Recommendadtion", "Knowledge Graph Embedding" accepted to WWW 2021.
+* 2021-01-16 Papers on "Fairness", "Generative Recommendation", "Knowledge Graph Embedding" accepted to WWW 2021.
 * 2020-10-16 Our research on "Long-term Fairness" is accepted as a full paper to the WSDM 2021 conference.
-* 2020-08-10 Our research on "Neural Symbolic Reasoning for Explainable Recommendadtion" is accepted by the CIKM 2020 conference.
+* 2020-08-10 Our research on "Neural Symbolic Reasoning for Explainable Recommendation" is accepted by the CIKM 2020 conference.
 * 2020-06-20 Our research on "Risk-aware Recommendation", "Fairness-aware Recommendation", and "Echo Chamber Analysis" are accepted as long papers on the SIGIR 2020.
 * 2019-01-20 Our recent research on bridging machine learning and economic principles for economic analysis of web-based systems is accepted by the Web Conference 2019 (WWW 2019).
 
