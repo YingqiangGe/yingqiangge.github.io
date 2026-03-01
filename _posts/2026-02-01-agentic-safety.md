@@ -1,7 +1,7 @@
 ---
 title: 'Why Agentic Safety Is the Next Frontier'
-date: 2025-07-15
-permalink: /posts/2025/07/agentic-safety/
+date: 2026-02-01
+permalink: /posts/2026/02/agentic-safety/
 tags:
   - agentic safety
   - LLM agents
