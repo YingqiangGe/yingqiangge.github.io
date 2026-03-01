@@ -32,7 +32,6 @@ Experience
   * Research Scientist Intern,  May 2019 - Aug. 2019
   * Working closely with Dr. [Changhua Pei](https://scholar.google.com/citations?hl=en&user=ZF-c4kYAAAAJ), Dr. [Fei Sun](https://scholar.google.com/citations?hl=en&user=OlRxBhcAAAAJ)
 
-  
 <!-- Skills
 ======
 * Skill 1
@@ -44,22 +43,22 @@ Experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
+
 Service and leadership
 ======
 * PC Member & Reviewer
