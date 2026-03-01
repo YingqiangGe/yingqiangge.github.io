@@ -87,7 +87,7 @@ Yunqi Li, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge, Juntao Tan, Shuchang Liu, Yon
 *In Proceedings of the Transactions on Intelligent Systems and Technology (**ACM TIST**).*\
 [[paper](https://arxiv.org/pdf/2205.13619.pdf)]
 
-**Causal Collabrative Filtering**\
+**Causal Collaborative Filtering**\
 Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, Xu Chen and Yongfeng Zhang.\
 *In Proceedings of The 9th ACM SIGIR / The 13th International Conference on the Theory of Information Retrieval (**ICTIR 23'**).*\
 [[paper](https://arxiv.org/pdf/2102.01868.pdf)]
@@ -129,7 +129,7 @@ Shijie Geng, Zuohui Fu, Yingqiang Ge, Lei Li, Gerard de Melo, Yongfeng Zhang.\
 [[paper](https://aclanthology.org/2022.acl-long.20/)]
 
 **Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning**\
-Juntao Tan, Shijie Geng, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Yunqi Li, Yongfeng Zhang, Yongfeng Zhang.\
+Juntao Tan, Shijie Geng, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Yunqi Li, Yongfeng Zhang.\
 *In Proceedings of the Web Conference 2022, April 25 – 29, Online, hosted by Lyon, France (**WWW 22'**).*\
 [[paper](https://arxiv.org/pdf/2202.08816.pdf)]
 
@@ -187,13 +187,13 @@ Yikun Xian, Zuohui Fu, Handong Zhao, Yingqiang Ge, Xu Chen, Qiaoying Huang, Shij
 *In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM 20'**).*\
 [[paper](https://arxiv.org/pdf/2010.15620.pdf)]
 
-**Learning Personalized RiskPreferences for Recommendation**\
+**Learning Personalized Risk Preferences for Recommendation**\
 Yingqiang Ge, Shuyuan Xu, Shuchang Liu, Zuohui Fu, Fei Sun and Yongfeng Zhang.\
 *In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 20'**).*\
 [[paper](https://arxiv.org/abs/2007.02478)]
 
 **Understanding Echo Chambers in E-commerce Recommender Systems**\
-Yingqiang Ge<sup>\*</sup>, Shuya Zhao<sup>\*</sup>, Honglu Zhou, Changhua Pei, Fei Sun, Zuohui Fu, Yikun Xian, Wenwu Ou & YongfengZhang.\
+Yingqiang Ge<sup>\*</sup>, Shuya Zhao<sup>\*</sup>, Honglu Zhou, Changhua Pei, Fei Sun, Zuohui Fu, Yikun Xian, Wenwu Ou & Yongfeng Zhang.\
 *In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, Industry Track (**SIGIR 20'**).*\
 [[paper](https://arxiv.org/pdf/2007.02474.pdf)]
 
@@ -209,15 +209,15 @@ Zuohui Fu, Yikun Xian, Shijie Geng, Yingqiang Ge, Yuting Wang, Xin Dong, Guang W
 
 
 ## 2019
-**Maximizing MarginalUtility per Dollar for Economic Recommendation**\
+**Maximizing Marginal Utility per Dollar for Economic Recommendation**\
 Yingqiang Ge, Shuyuan Xu, Shuchang Liu, Shijie Geng, Zuohui Fu and Yongfeng Zhang.\
 *In Proceedings of the Web Conference 2019, May 13 - 17, 2019, San Francisco, USA. (**WWW 19'**).*\
 [[paper](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313725)]
 
-**sharedCharging: Data-DrivenShared Charging for Large-Scale Heterogeneous Electric Vehicle Fleets**  
+**sharedCharging: Data-Driven Shared Charging for Large-Scale Heterogeneous Electric Vehicle Fleets**  
 Guang Wang, Wenzhong  Li, Jun  Zhang, Yingqiang  Ge, Zuohui Fu,Fan  Zhang, Yang  Wang and Desheng Zhang.\
 *In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**ACM  IMWUT/UbiComp 19'**).*\
-[[paper](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313725)]
+[[paper](https://dl.acm.org/doi/10.1145/3351266)]
 
 
 
