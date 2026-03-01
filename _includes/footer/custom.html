@@ -13,8 +13,8 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
-<!-- ClustrMaps visitor tracking (site-wide, hidden widget) -->
-<div style="display:none;">
+<!-- ClustrMaps visitor tracking (visible on homepage, hidden on other pages) -->
+<div{% unless page.url == "/" %} style="display:none;"{% endunless %}>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1rCnpCekKUrfKHyfSXxsKj7j_eK6DIUn7r2WYD7VX88&cl=ffffff&w=a"></script>
 </div>
 
