@@ -1,6 +1,6 @@
 ---
 title: 'Personalized LLMs: Towards Models That Truly Know You'
-date: 2025-03-01
+date: 2025-03-27
 permalink: /posts/2025/03/personalized-llm/
 tags:
   - personalized LLM
