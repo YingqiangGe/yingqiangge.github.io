@@ -2,13 +2,14 @@
 title: 'The Great Dispersion: AI Will Scatter Programmers, Not Eliminate Them'
 date: 2026-03-14
 permalink: /posts/2026/03/future-of-programmers/
+excerpt: "Big Tech layoffs aren't the end of programmers — they're the end of programmer concentration. AI will scatter us everywhere."
 tags:
   - AI
   - software engineering
   - industry trends
 ---
 
-Another round of layoff rumors from Meta — 25–35% cuts targeting infra, RL, and M10, with E3s re-evaluated at E4 standards.
+Another round of layoff rumors from Meta — 25–35% cuts targeting infra, RL, and M10, with E3s re-evaluated at E4 standards. Unverified, but the pattern across Big Tech is unmistakable.
 
 <figure style="float: right; margin: 0 0 1em 1.5em; max-width: 280px;">
 <img src="/images/meta-layoff-blind-2026.jpg" alt="Blind post about Meta layoff information" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
@@ -29,7 +30,7 @@ But the world has *more* software problems, not fewer. The gap is at the million
 
 **Big Tech shrinks.** The remaining engineers will be senior, productive, and AI-augmented. Mass new-grad hiring for internal tooling is over.
 
-**SMBs gain access.** One developer with Claude Code can now build what used to require a small team. A logistics company, a hospital, a manufacturer — they can finally afford one or two engineers for custom solutions.
+**SMBs gain access.** One developer with Claude Code can now build what used to require a small team. A logistics company, a hospital, a manufacturer — they can finally afford one or two engineers for custom solutions. I built [GuardClaw](https://github.com/TobyGE/GuardClaw) — a full-stack AI safety monitor with a native macOS app, React dashboard, and real-time agent interception — largely solo with AI-assisted coding. A project like this would have needed a small team not long ago.
 
 **But they still need *someone*.** AI tools are powerful, not autonomous. You still need a human who understands requirements, architecture, security, and deployment. A business owner cannot just say "build me an ERP" and get a production system. They need a professional who knows what to ask and how to validate.
 
