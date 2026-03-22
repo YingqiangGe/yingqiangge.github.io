@@ -28,9 +28,21 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}">
+          <span data-i18n="en">{{ title }}</span>
+          {% if post.title_zh %}<span data-i18n="zh">{{ post.title_zh }}</span>{% endif %}
+          {% if post.title_ja %}<span data-i18n="ja">{{ post.title_ja }}</span>{% endif %}
+          {% if post.title_ko %}<span data-i18n="ko">{{ post.title_ko }}</span>{% endif %}
+          {% if post.title_es %}<span data-i18n="es">{{ post.title_es }}</span>{% endif %}
+        </a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+          <span data-i18n="en">{{ title }}</span>
+          {% if post.title_zh %}<span data-i18n="zh">{{ post.title_zh }}</span>{% endif %}
+          {% if post.title_ja %}<span data-i18n="ja">{{ post.title_ja }}</span>{% endif %}
+          {% if post.title_ko %}<span data-i18n="ko">{{ post.title_ko }}</span>{% endif %}
+          {% if post.title_es %}<span data-i18n="es">{{ post.title_es }}</span>{% endif %}
+        </a>
       {% endif %}
     </h2>
     

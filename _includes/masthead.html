@@ -18,6 +18,19 @@
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
+          <li id="lang-switcher" class="masthead__menu-item persist tail" style="position:relative;">
+            <a role="button" id="lang-btn" title="Language" style="cursor:pointer;">
+              <i class="fa-solid fa-globe" aria-hidden="true"></i>
+              <span id="lang-label" style="font-size:0.8em;margin-left:2px;">EN</span>
+            </a>
+            <ul id="lang-menu" style="display:none;position:absolute;right:0;top:100%;background:var(--bg-color,#fff);border:1px solid var(--border-color,#ddd);border-radius:4px;list-style:none;padding:4px 0;margin:0;min-width:120px;z-index:999;box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+              <li><a data-lang="en" style="display:block;padding:4px 12px;cursor:pointer;">English</a></li>
+              <li><a data-lang="zh" style="display:block;padding:4px 12px;cursor:pointer;">中文</a></li>
+              <li><a data-lang="ja" style="display:block;padding:4px 12px;cursor:pointer;">日本語</a></li>
+              <li><a data-lang="ko" style="display:block;padding:4px 12px;cursor:pointer;">한국어</a></li>
+              <li><a data-lang="es" style="display:block;padding:4px 12px;cursor:pointer;">Español</a></li>
+            </ul>
+          </li>
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>
