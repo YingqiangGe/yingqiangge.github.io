@@ -33,9 +33,19 @@ let setTheme = (theme) => {
   if (use_theme === "dark") {
     $("html").attr("data-theme", "dark");
     $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
+    // SVG icon toggle
+    var sunSvg = document.getElementById("theme-icon-sun");
+    var moonSvg = document.getElementById("theme-icon-moon");
+    if (sunSvg) sunSvg.style.display = "none";
+    if (moonSvg) moonSvg.style.display = "";
   } else if (use_theme === "light") {
     $("html").removeAttr("data-theme");
     $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
+    // SVG icon toggle
+    var sunSvg = document.getElementById("theme-icon-sun");
+    var moonSvg = document.getElementById("theme-icon-moon");
+    if (sunSvg) sunSvg.style.display = "";
+    if (moonSvg) moonSvg.style.display = "none";
   }
 };
 
