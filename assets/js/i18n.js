@@ -102,7 +102,15 @@
       btn.addEventListener('click', function(e) {
         e.preventDefault();
         e.stopPropagation();
-        menu.style.display = menu.style.display === 'none' ? 'block' : 'none';
+        if (menu.style.display === 'none' || menu.style.display === '') {
+          var rect = btn.getBoundingClientRect();
+          menu.style.top = (rect.bottom + 4) + 'px';
+          menu.style.right = (window.innerWidth - rect.right) + 'px';
+          menu.style.left = 'auto';
+          menu.style.display = 'flex';
+        } else {
+          menu.style.display = 'none';
+        }
       });
       menu.querySelectorAll('[data-lang]').forEach(function(a) {
         a.addEventListener('click', function(e) {
