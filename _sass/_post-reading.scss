@@ -1,0 +1,107 @@
+/* Post reading view — serif body + warm accent, scoped to blog posts only */
+
+$post-accent: #c2410c;
+$post-accent-dark: #fb923c;
+$post-serif: "Iowan Old Style", "Palatino Linotype", Palatino, Charter, Georgia, serif;
+$post-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
+.page--post {
+  .page__title {
+    font-family: $post-serif;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    line-height: 1.2;
+  }
+
+  .page__content {
+    font-family: $post-serif;
+    font-size: 1.05rem;
+    line-height: 1.75;
+
+    p, li {
+      font-family: $post-serif;
+    }
+
+    p {
+      margin: 0 0 1.15em;
+    }
+
+    h2 {
+      font-family: $post-serif;
+      font-weight: 700;
+      letter-spacing: -0.005em;
+      margin-top: 2em;
+      margin-bottom: 0.6em;
+    }
+
+    h3, h4 {
+      font-family: $post-serif;
+      font-weight: 700;
+    }
+
+    strong {
+      font-weight: 700;
+    }
+
+    em {
+      font-style: italic;
+    }
+
+    a {
+      color: $post-accent;
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
+
+      &:hover {
+        color: $post-accent;
+        text-decoration-thickness: 2px;
+      }
+    }
+
+    code {
+      font-family: "SF Mono", Menlo, Consolas, monospace;
+      font-size: 0.9em;
+      background: rgba(194, 65, 12, 0.08);
+      padding: 1px 5px;
+      border-radius: 3px;
+    }
+
+    blockquote {
+      border-left: 3px solid $post-accent;
+      padding: 4px 0 4px 20px;
+      font-style: italic;
+      color: #555;
+      margin: 1.5em 0;
+    }
+
+    ol, ul {
+      padding-left: 1.6em;
+      li {
+        margin-bottom: 0.4em;
+      }
+    }
+  }
+
+  .page__meta,
+  .page__date {
+    font-family: $post-sans;
+  }
+}
+
+/* Dark theme */
+html[data-theme="dark"] .page--post {
+  .page__content {
+    a {
+      color: $post-accent-dark;
+      &:hover { color: $post-accent-dark; }
+    }
+    code {
+      background: rgba(251, 146, 60, 0.12);
+    }
+    blockquote {
+      border-left-color: $post-accent-dark;
+      color: #b0ada5;
+    }
+  }
+}
