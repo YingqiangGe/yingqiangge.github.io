@@ -74,7 +74,7 @@ Mi interes de investigacion personal es la **Seguridad Agentica (Agentic Safety)
 ## News
 * 2026-05-16 Our paper "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems" has been accepted by KDD 2026.
 * 2026-04-19 Our paper "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning" received the **Best Short Paper Award** at AIWILD @ ICLR 2026.
-* 2026-04-09 Our survey "[Agent Harness for Large Language Model Agents: A Survey](https://www.preprints.org/manuscript/202604.0428/v2)" is online.
+* 2026-05-14 Our survey "[Agent Harness Engineering: A Survey](https://openreview.net/forum?id=3hXEPbG0dh)" is available on OpenReview.
 * 2025-07-01 Our paper "AIOS: LLM Agent Operating System" has been accepted by COLM 2025.
 * 2025-03-01 Our survey "Causal Inference for Recommendation" has been accepted for publication in ACM TIST.
 * 2025-01-15 Our survey on Trustworthy Recommender Systems has been published in ACM TORS.
@@ -120,7 +120,7 @@ Mi interes de investigacion personal es la **Seguridad Agentica (Agentic Safety)
 ## 新闻动态
 * 2026-05-16 论文 "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems" 被 KDD 2026 录用。
 * 2026-04-19 论文 "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning" 获 AIWILD @ ICLR 2026 **Best Short Paper Award**。
-* 2026-04-09 我们的综述 "[Agent Harness for Large Language Model Agents: A Survey](https://www.preprints.org/manuscript/202604.0428/v2)" 已上线。
+* 2026-05-14 我们的综述 "[Agent Harness Engineering: A Survey](https://openreview.net/forum?id=3hXEPbG0dh)" 已在 OpenReview 上线。
 * 2025-07-01 论文 "AIOS: LLM Agent Operating System" 被 COLM 2025 录用。
 * 2025-03-01 综述 "Causal Inference for Recommendation" 被 ACM TIST 录用。
 * 2025-01-15 可信推荐系统综述在 ACM TORS 发表。
@@ -166,7 +166,7 @@ Mi interes de investigacion personal es la **Seguridad Agentica (Agentic Safety)
 ## ニュース
 * 2026-05-16 論文 "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems" が KDD 2026 に採択。
 * 2026-04-19 論文 "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning" が AIWILD @ ICLR 2026 で **Best Short Paper Award** を受賞。
-* 2026-04-09 サーベイ "[Agent Harness for Large Language Model Agents: A Survey](https://www.preprints.org/manuscript/202604.0428/v2)" を公開。
+* 2026-05-14 サーベイ "[Agent Harness Engineering: A Survey](https://openreview.net/forum?id=3hXEPbG0dh)" が OpenReview で公開。
 * 2025-07-01 論文 "AIOS: LLM Agent Operating System" が COLM 2025 に採択。
 * 2025-03-01 サーベイ "Causal Inference for Recommendation" が ACM TIST に採択。
 * 2025-01-15 信頼できる推薦システムのサーベイが ACM TORS に掲載。
@@ -212,7 +212,7 @@ Mi interes de investigacion personal es la **Seguridad Agentica (Agentic Safety)
 ## 소식
 * 2026-05-16 논문 "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems"이 KDD 2026에 채택됨.
 * 2026-04-19 논문 "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning"이 AIWILD @ ICLR 2026에서 **Best Short Paper Award** 수상.
-* 2026-04-09 서베이 "[Agent Harness for Large Language Model Agents: A Survey](https://www.preprints.org/manuscript/202604.0428/v2)"를 공개함.
+* 2026-05-14 서베이 "[Agent Harness Engineering: A Survey](https://openreview.net/forum?id=3hXEPbG0dh)"가 OpenReview에 공개됨.
 * 2025-07-01 논문 "AIOS: LLM Agent Operating System"이 COLM 2025에 채택됨.
 * 2025-03-01 서베이 "Causal Inference for Recommendation"이 ACM TIST에 채택됨.
 * 2025-01-15 신뢰할 수 있는 추천 시스템 서베이가 ACM TORS에 게재됨.
@@ -258,7 +258,7 @@ Mi interes de investigacion personal es la **Seguridad Agentica (Agentic Safety)
 ## Noticias
 * 2026-05-16 Nuestro articulo "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems" ha sido aceptado en KDD 2026.
 * 2026-04-19 Nuestro articulo "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning" recibió el **Best Short Paper Award** en AIWILD @ ICLR 2026.
-* 2026-04-09 Publicamos el survey "[Agent Harness for Large Language Model Agents: A Survey](https://www.preprints.org/manuscript/202604.0428/v2)".
+* 2026-05-14 Nuestro survey "[Agent Harness Engineering: A Survey](https://openreview.net/forum?id=3hXEPbG0dh)" esta disponible en OpenReview.
 * 2025-07-01 Nuestro articulo "AIOS: LLM Agent Operating System" ha sido aceptado en COLM 2025.
 * 2025-03-01 Nuestro survey "Causal Inference for Recommendation" ha sido aceptado en ACM TIST.
 * 2025-01-15 Nuestro survey sobre Trustworthy Recommender Systems ha sido publicado en ACM TORS.
