@@ -302,4 +302,7 @@ Mi interes de investigacion personal es la **Seguridad Agentica (Agentic Safety)
 
 <div class="visitor-map" style="margin-top: 2rem; text-align: center;">
 <script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=1rCnpCekKUrfKHyfSXxsKj7j_eK6DIUn7r2WYD7VX88&cl=ffffff&w=a"></script>
+<a href="https://hits.sh/yingqiangge.github.io/" aria-label="Homepage visit counter">
+  <img alt="visits" src="https://hits.sh/yingqiangge.github.io.svg?style=flat-square&label=visits&color=007ec6" />
+</a>
 </div>
