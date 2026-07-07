@@ -26,14 +26,31 @@
     es: 'Pagina de Yingqiang',
   };
 
+  function getStoredLang() {
+    try {
+      return localStorage.getItem('site-lang');
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function rememberLang(lang) {
+    try {
+      localStorage.setItem('site-lang', lang);
+    } catch (e) {
+      // Language switching should still work when storage is unavailable.
+    }
+  }
+
   function setLang(lang) {
     document.querySelectorAll('[data-i18n]').forEach(el => {
       el.style.display = el.getAttribute('data-i18n') === lang ? '' : 'none';
     });
     var label = document.getElementById('lang-label');
     if (label) label.textContent = LABELS[lang] || lang.toUpperCase();
-    localStorage.setItem('site-lang', lang);
+    rememberLang(lang);
     document.documentElement.lang = lang;
+    document.documentElement.setAttribute('data-site-lang', lang);
 
     // translate nav links
     var navMap = NAV[lang] || NAV.en;
@@ -92,7 +109,7 @@
   }
 
   function init() {
-    var lang = localStorage.getItem('site-lang') || (navigator.language || '').slice(0, 2);
+    var lang = getStoredLang() || (navigator.language || '').slice(0, 2);
     if (!LABELS[lang]) lang = 'en';
 
     // dropdown toggle

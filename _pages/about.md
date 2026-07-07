@@ -301,5 +301,5 @@ Mi interes de investigacion personal es la **Seguridad Agentica (Agentic Safety)
 
 
 <div class="visitor-map" style="margin-top: 2rem; text-align: center;">
-<script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=1rCnpCekKUrfKHyfSXxsKj7j_eK6DIUn7r2WYD7VX88&cl=ffffff&w=a"></script>
+<script async defer type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=1rCnpCekKUrfKHyfSXxsKj7j_eK6DIUn7r2WYD7VX88&cl=ffffff&w=a"></script>
 </div>
