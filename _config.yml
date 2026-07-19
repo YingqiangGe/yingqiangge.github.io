@@ -22,7 +22,7 @@ repository               : "yingqiangge/yingqiangge.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "YG.JPG"
+  avatar           : "linkedin-profile.jpg"
   name             : "Yingqiang Ge"
   bio              : "Ph.D. in Machine Learning"
   location         : "NYC, NY"

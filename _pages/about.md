@@ -12,11 +12,9 @@ redirect_from:
 
 ## About Me
 
-I'm Yingqiang Ge, an Applied Scientist at Amazon. I got my Ph.D. from [Rutgers University](https://www.rutgers.edu/) (2023, advised by [Prof. Yongfeng Zhang](http://yongfeng.me/)), where I worked on Trustworthy AI, fairness, and explainability in recommender systems.
+I'm Yingqiang Ge, an Applied Scientist at Amazon, leading work on agentic evaluation and self-evolving AI systems. My current work focuses on building evaluation frameworks and learning loops that help AI agents assess their own behavior, improve through feedback, and operate more reliably in complex real-world tasks.
 
-During my PhD, I published extensively on fairness-aware recommendation, causal reasoning, and explainable AI at top venues including SIGIR, WSDM, WWW, ACL, and NeurIPS. I also co-created [OpenAGI](https://github.com/agiresearch/OpenAGI), an open-source research platform for LLM-based agents, and contributed to [P5](https://arxiv.org/abs/2203.13366), one of the early works on unifying recommendation as language processing.
-
-My personal research interest is **Agentic Safety** — making sure autonomous AI agents act reliably and safely in the real world. As agents move from answering questions to taking actions — executing code, calling APIs, managing infrastructure — the safety challenges are fundamentally different from traditional AI. I build open-source systems like [AIOS](https://github.com/agiresearch/AIOS) (an LLM agent operating system, published at COLM 2025) and [GuardClaw](https://github.com/TobyGE) (a real-time safety interception framework), exploring how to give AI agents more autonomy without losing human control.
+I got my Ph.D. from [Rutgers University](https://www.rutgers.edu/) (2023, advised by [Prof. Yongfeng Zhang](http://yongfeng.me/)), where I worked on Trustworthy AI. During my PhD, I published extensively on fairness-aware recommendation, causal reasoning, and explainable AI at top venues including SIGIR, WSDM, WWW, ACL, and NeurIPS. I also co-created [OpenAGI](https://github.com/agiresearch/OpenAGI), an open-source research platform for LLM-based agents, and contributed to [P5](https://arxiv.org/abs/2203.13366), one of the early works on unifying recommendation as language processing.
 
 </div>
 
@@ -24,11 +22,9 @@ My personal research interest is **Agentic Safety** — making sure autonomous A
 
 ## 关于我
 
-我是葛英强，目前在Amazon担任应用科学家。2023年在[Rutgers University](https://www.rutgers.edu/)获得博士学位（导师：[张永锋教授](http://yongfeng.me/)），研究方向为可信AI、推荐系统的公平性与可解释性。
+我是葛英强，目前在Amazon担任应用科学家，负责智能体评测和自演化AI系统相关工作。当前我的工作重点是构建评测框架和学习闭环，帮助AI智能体评估自身行为、基于反馈持续改进，并在复杂的真实世界任务中更可靠地运行。
 
-读博期间，我在SIGIR、WSDM、WWW、ACL、NeurIPS等顶会上发表了多篇关于公平推荐、因果推理和可解释AI的论文。我参与创建了[OpenAGI](https://github.com/agiresearch/OpenAGI)（基于LLM的智能体开源研究平台），并参与了[P5](https://arxiv.org/abs/2203.13366)（将推荐统一为语言处理任务的早期工作之一）。
-
-我个人的研究兴趣是**智能体安全（Agentic Safety）**——确保自主AI智能体在真实世界中可靠、安全地运行。当智能体从回答问题转向执行操作（运行代码、调用API、管理基础设施）时，安全挑战与传统AI截然不同。我构建了[AIOS](https://github.com/agiresearch/AIOS)（LLM智能体操作系统，COLM 2025发表）和[GuardClaw](https://github.com/TobyGE)（实时安全拦截框架）等开源系统，探索如何在赋予AI智能体更多自主权的同时保持人类控制。
+我在[Rutgers University](https://www.rutgers.edu/)获得博士学位（2023年，导师：[张永锋教授](http://yongfeng.me/)），博士期间主要研究可信AI。读博期间，我在SIGIR、WSDM、WWW、ACL、NeurIPS等顶会上发表了多篇关于公平推荐、因果推理和可解释AI的论文。我参与创建了[OpenAGI](https://github.com/agiresearch/OpenAGI)（基于LLM的智能体开源研究平台），并参与了[P5](https://arxiv.org/abs/2203.13366)（将推荐统一为语言处理任务的早期工作之一）。
 
 </div>
 
@@ -36,11 +32,9 @@ My personal research interest is **Agentic Safety** — making sure autonomous A
 
 ## 自己紹介
 
-葛英強（Yingqiang Ge）と申します。現在Amazonで応用科学者として働いています。2023年に[Rutgers University](https://www.rutgers.edu/)で博士号を取得しました（指導教員：[張永鋒教授](http://yongfeng.me/)）。研究分野は信頼性の高いAI、推薦システムにおける公平性と説明可能性です。
+葛英強（Yingqiang Ge）と申します。現在Amazonで応用科学者として、エージェント評価と自己進化型AIシステムに関する研究開発をリードしています。現在の仕事では、AIエージェントが自らの行動を評価し、フィードバックから改善し、複雑な実世界タスクでより信頼性高く動作できるようにするための評価フレームワークと学習ループの構築に取り組んでいます。
 
-博士課程では、SIGIR、WSDM、WWW、ACL、NeurIPSなどのトップ会議で、公平性を考慮した推薦、因果推論、説明可能なAIに関する論文を多数発表しました。[OpenAGI](https://github.com/agiresearch/OpenAGI)（LLMベースのエージェント研究プラットフォーム）の共同開発や、[P5](https://arxiv.org/abs/2203.13366)（推薦を言語処理として統合する初期の研究）にも貢献しました。
-
-私の研究関心は**エージェント安全性（Agentic Safety）**です。自律型AIエージェントが現実世界で信頼性高く安全に動作することを目指しています。エージェントが質問への回答からコード実行、API呼び出し、インフラ管理へと移行する中で、安全性の課題は従来のAIとは根本的に異なります。[AIOS](https://github.com/agiresearch/AIOS)（LLMエージェントOS、COLM 2025採択）や[GuardClaw](https://github.com/TobyGE)（リアルタイム安全インターセプトフレームワーク）などのオープンソースシステムを構築し、人間の制御を維持しながらAIエージェントにより多くの自律性を与える方法を探求しています。
+2023年に[Rutgers University](https://www.rutgers.edu/)で博士号を取得しました（指導教員：[張永鋒教授](http://yongfeng.me/)）。博士課程では信頼性の高いAIを研究しました。博士課程では、SIGIR、WSDM、WWW、ACL、NeurIPSなどのトップ会議で、公平性を考慮した推薦、因果推論、説明可能なAIに関する論文を多数発表しました。[OpenAGI](https://github.com/agiresearch/OpenAGI)（LLMベースのエージェント研究プラットフォーム）の共同開発や、[P5](https://arxiv.org/abs/2203.13366)（推薦を言語処理として統合する初期の研究）にも貢献しました。
 
 </div>
 
@@ -48,11 +42,9 @@ My personal research interest is **Agentic Safety** — making sure autonomous A
 
 ## 소개
 
-저는 거잉창(Yingqiang Ge)이며, 현재 Amazon에서 응용 과학자로 일하고 있습니다. 2023년 [Rutgers University](https://www.rutgers.edu/)에서 박사 학위를 취득했습니다 (지도교수: [장융펑 교수](http://yongfeng.me/)). 연구 분야는 신뢰할 수 있는 AI, 추천 시스템의 공정성 및 설명 가능성입니다.
+저는 거잉창(Yingqiang Ge)이며, 현재 Amazon에서 응용 과학자로 일하며 에이전트 평가와 자기 진화형 AI 시스템 관련 업무를 이끌고 있습니다. 현재는 AI 에이전트가 자신의 행동을 평가하고, 피드백을 통해 개선하며, 복잡한 실제 작업에서 더 안정적으로 작동할 수 있도록 하는 평가 프레임워크와 학습 루프를 구축하는 데 집중하고 있습니다.
 
-박사 과정 동안 SIGIR, WSDM, WWW, ACL, NeurIPS 등 주요 학회에서 공정성 기반 추천, 인과 추론, 설명 가능한 AI에 관한 다수의 논문을 발표했습니다. [OpenAGI](https://github.com/agiresearch/OpenAGI)(LLM 기반 에이전트 연구 플랫폼)를 공동 개발하고, [P5](https://arxiv.org/abs/2203.13366)(추천을 언어 처리로 통합하는 초기 연구)에 기여했습니다.
-
-저의 연구 관심사는 **에이전트 안전성(Agentic Safety)**입니다. 자율 AI 에이전트가 실제 환경에서 안정적이고 안전하게 작동하도록 하는 것을 목표로 합니다. 에이전트가 질문 응답에서 코드 실행, API 호출, 인프라 관리로 전환됨에 따라 안전 과제는 기존 AI와 근본적으로 다릅니다. [AIOS](https://github.com/agiresearch/AIOS)(LLM 에이전트 운영체제, COLM 2025 채택)와 [GuardClaw](https://github.com/TobyGE)(실시간 안전 차단 프레임워크) 등의 오픈소스 시스템을 구축하여 인간의 통제를 유지하면서 AI 에이전트에 더 많은 자율성을 부여하는 방법을 연구하고 있습니다.
+저는 2023년 [Rutgers University](https://www.rutgers.edu/)에서 박사 학위를 취득했습니다 (지도교수: [장융펑 교수](http://yongfeng.me/)). 박사 과정에서는 신뢰할 수 있는 AI를 연구했습니다. 박사 과정 동안 SIGIR, WSDM, WWW, ACL, NeurIPS 등 주요 학회에서 공정성 기반 추천, 인과 추론, 설명 가능한 AI에 관한 다수의 논문을 발표했습니다. [OpenAGI](https://github.com/agiresearch/OpenAGI)(LLM 기반 에이전트 연구 플랫폼)를 공동 개발하고, [P5](https://arxiv.org/abs/2203.13366)(추천을 언어 처리로 통합하는 초기 연구)에 기여했습니다.
 
 </div>
 
@@ -60,11 +52,9 @@ My personal research interest is **Agentic Safety** — making sure autonomous A
 
 ## Sobre mi
 
-Soy Yingqiang Ge, Cientifico Aplicado en Amazon. Obtuve mi doctorado en [Rutgers University](https://www.rutgers.edu/) (2023, dirigido por el [Prof. Yongfeng Zhang](http://yongfeng.me/)), donde investigue sobre IA confiable, equidad y explicabilidad en sistemas de recomendacion.
+Soy Yingqiang Ge, Cientifico Aplicado en Amazon, liderando trabajos sobre evaluacion agentica y sistemas de IA autoevolutivos. Mi trabajo actual se centra en construir marcos de evaluacion y ciclos de aprendizaje que ayuden a los agentes de IA a evaluar su propio comportamiento, mejorar mediante retroalimentacion y operar de forma mas confiable en tareas complejas del mundo real.
 
-Durante mi doctorado, publique extensamente sobre recomendacion con equidad, razonamiento causal e IA explicable en conferencias de primer nivel como SIGIR, WSDM, WWW, ACL y NeurIPS. Tambien co-cree [OpenAGI](https://github.com/agiresearch/OpenAGI), una plataforma de investigacion de codigo abierto para agentes basados en LLM, y contribui a [P5](https://arxiv.org/abs/2203.13366), uno de los primeros trabajos en unificar la recomendacion como procesamiento de lenguaje.
-
-Mi interes de investigacion personal es la **Seguridad Agentica (Agentic Safety)** — asegurar que los agentes autonomos de IA actuen de manera confiable y segura en el mundo real. A medida que los agentes pasan de responder preguntas a ejecutar acciones — ejecutar codigo, llamar APIs, gestionar infraestructura — los desafios de seguridad son fundamentalmente diferentes de la IA tradicional. Construyo sistemas de codigo abierto como [AIOS](https://github.com/agiresearch/AIOS) (un sistema operativo para agentes LLM, publicado en COLM 2025) y [GuardClaw](https://github.com/TobyGE) (un framework de intercepcion de seguridad en tiempo real), explorando como dar mas autonomia a los agentes de IA sin perder el control humano.
+Obtuve mi doctorado en [Rutgers University](https://www.rutgers.edu/) (2023, dirigido por el [Prof. Yongfeng Zhang](http://yongfeng.me/)), donde investigue sobre IA confiable. Durante mi doctorado, publique extensamente sobre recomendacion con equidad, razonamiento causal e IA explicable en conferencias de primer nivel como SIGIR, WSDM, WWW, ACL y NeurIPS. Tambien co-cree [OpenAGI](https://github.com/agiresearch/OpenAGI), una plataforma de investigacion de codigo abierto para agentes basados en LLM, y contribui a [P5](https://arxiv.org/abs/2203.13366), uno de los primeros trabajos en unificar la recomendacion como procesamiento de lenguaje.
 
 </div>
 
@@ -73,7 +63,7 @@ Mi interes de investigacion personal es la **Seguridad Agentica (Agentic Safety)
 
 ## News
 * 2026-05-16 Our paper "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems" has been accepted by KDD 2026.
-* 2026-05-14 Our survey "[Agent Harness Engineering: A Survey](https://openreview.net/forum?id=3hXEPbG0dh)" is available on OpenReview.
+* 2026-05-14 Our survey "[Agent Harness Engineering: A Survey](https://picrew.github.io/LLM-Harness/)" is available on OpenReview.
 * 2026-04-19 Our paper "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning" received the **Best Short Paper Award** at AIWILD @ ICLR 2026.
 * 2025-07-01 Our paper "AIOS: LLM Agent Operating System" has been accepted by COLM 2025.
 * 2025-03-01 Our survey "Causal Inference for Recommendation" has been accepted for publication in ACM TIST.
@@ -119,7 +109,7 @@ Mi interes de investigacion personal es la **Seguridad Agentica (Agentic Safety)
 
 ## 新闻动态
 * 2026-05-16 论文 "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems" 被 KDD 2026 录用。
-* 2026-05-14 我们的综述 "[Agent Harness Engineering: A Survey](https://openreview.net/forum?id=3hXEPbG0dh)" 已在 OpenReview 上线。
+* 2026-05-14 我们的综述 "[Agent Harness Engineering: A Survey](https://picrew.github.io/LLM-Harness/)" 已在 OpenReview 上线。
 * 2026-04-19 论文 "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning" 获 AIWILD @ ICLR 2026 **Best Short Paper Award**。
 * 2025-07-01 论文 "AIOS: LLM Agent Operating System" 被 COLM 2025 录用。
 * 2025-03-01 综述 "Causal Inference for Recommendation" 被 ACM TIST 录用。
@@ -165,7 +155,7 @@ Mi interes de investigacion personal es la **Seguridad Agentica (Agentic Safety)
 
 ## ニュース
 * 2026-05-16 論文 "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems" が KDD 2026 に採択。
-* 2026-05-14 サーベイ "[Agent Harness Engineering: A Survey](https://openreview.net/forum?id=3hXEPbG0dh)" が OpenReview で公開。
+* 2026-05-14 サーベイ "[Agent Harness Engineering: A Survey](https://picrew.github.io/LLM-Harness/)" が OpenReview で公開。
 * 2026-04-19 論文 "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning" が AIWILD @ ICLR 2026 で **Best Short Paper Award** を受賞。
 * 2025-07-01 論文 "AIOS: LLM Agent Operating System" が COLM 2025 に採択。
 * 2025-03-01 サーベイ "Causal Inference for Recommendation" が ACM TIST に採択。
@@ -211,7 +201,7 @@ Mi interes de investigacion personal es la **Seguridad Agentica (Agentic Safety)
 
 ## 소식
 * 2026-05-16 논문 "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems"이 KDD 2026에 채택됨.
-* 2026-05-14 서베이 "[Agent Harness Engineering: A Survey](https://openreview.net/forum?id=3hXEPbG0dh)"가 OpenReview에 공개됨.
+* 2026-05-14 서베이 "[Agent Harness Engineering: A Survey](https://picrew.github.io/LLM-Harness/)"가 OpenReview에 공개됨.
 * 2026-04-19 논문 "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning"이 AIWILD @ ICLR 2026에서 **Best Short Paper Award** 수상.
 * 2025-07-01 논문 "AIOS: LLM Agent Operating System"이 COLM 2025에 채택됨.
 * 2025-03-01 서베이 "Causal Inference for Recommendation"이 ACM TIST에 채택됨.
@@ -257,7 +247,7 @@ Mi interes de investigacion personal es la **Seguridad Agentica (Agentic Safety)
 
 ## Noticias
 * 2026-05-16 Nuestro articulo "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems" ha sido aceptado en KDD 2026.
-* 2026-05-14 Nuestro survey "[Agent Harness Engineering: A Survey](https://openreview.net/forum?id=3hXEPbG0dh)" esta disponible en OpenReview.
+* 2026-05-14 Nuestro survey "[Agent Harness Engineering: A Survey](https://picrew.github.io/LLM-Harness/)" esta disponible en OpenReview.
 * 2026-04-19 Nuestro articulo "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning" recibió el **Best Short Paper Award** en AIWILD @ ICLR 2026.
 * 2025-07-01 Nuestro articulo "AIOS: LLM Agent Operating System" ha sido aceptado en COLM 2025.
 * 2025-03-01 Nuestro survey "Causal Inference for Recommendation" ha sido aceptado en ACM TIST.
