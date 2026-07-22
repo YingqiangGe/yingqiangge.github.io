@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprints
+**Agent Harness Engineering: A Survey**\
+Junjie Li, Xi Xiao, Yunbei Zhang, Chen Liu, Lin Zhao, Xiaoying Liao, Yingrui Ji, Janet Wang, Jianyang Gu, Yingqiang Ge, Weijie Xu, Xi Fang, Xiang Xu, Tianchen Zhao, Youngeun Kim, Tianyang Wang, Jihun Hamm, Smita Krishnaswamy, Jun Huan, Chandan K. Reddy.\
+*Under review at Transactions on Machine Learning Research (**TMLR**).*\
+[[paper](https://openreview.net/forum?id=eONq7FdiHa)]
+[[project](https://picrew.github.io/LLM-Harness/)]
+[[code](https://github.com/Picrew/awesome-agent-harness)]
+
 **LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem**\
 Yingqiang Ge, Yujie Ren, Wenyue Hua, Shuyuan Xu, Juntao Tan, Yongfeng Zhang.\
 [[paper](https://arxiv.org/pdf/2312.03815v2.pdf)]
@@ -21,22 +28,34 @@ Wenyue Hua, Lizhou Fan, Lingyao Li, Kai Mei, Jianchao Ji, Yingqiang Ge, Libby He
 Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao Tan, Fei Sun, Yongfeng Zhang.\
 [[paper](https://arxiv.org/abs/2109.01962)]
 
+## 2026
+**SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems**\
+Haochang Hao, Yifan Xu, Xinzhuo Li, Yingqiang Ge, Lu Cheng.\
+*In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2026**).*\
+[[paper](https://arxiv.org/abs/2603.03536)]
+
+**Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning**\
+Yunbei Zhang, Yingqiang Ge, Weijie Xu, Yuhui Xu, Jihun Hamm, Chandan K. Reddy.\
+*In Proceedings of the ICLR 2026 Workshop on Agents in the Wild: Safety, Security, and Beyond (**AIWILD @ ICLR 2026**). **Best Short Paper Award.***\
+[[paper](https://arxiv.org/abs/2603.20198)]
+[[OpenReview](https://openreview.net/forum?id=jFlieH7fsM)]
+
 ## 2025
 **AIOS: LLM Agent Operating System**\
-Kai Mei, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang.\
-*In Proceedings of the Conference on Language Modeling (**COLM 2025**).*\
-[[paper](https://arxiv.org/abs/2403.16971)]
+Kai Mei, Xi Zhu, Wujiang Xu, Mingyu Jin, Wenyue Hua, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang.\
+*In Proceedings of the 2nd Conference on Language Modeling (**COLM 2025**).*\
+[[paper](https://openreview.net/forum?id=L4HHkCDz2x)]
 [[code](https://github.com/agiresearch/AIOS)]
 
 **Causal Inference for Recommendation: Foundations, Methods, and Applications**\
-Shuyuan Xu, Jianchao Ji, Yunqi Li, Juntao Tan, Yingqiang Ge, Yongfeng Zhang.\
-*In Proceedings of the ACM Transactions on Intelligent Systems and Technology (**ACM TIST**).*\
-[[paper](https://dl.acm.org/journal/tist)]
+Shuyuan Xu, Jianchao Ji, Yunqi Li, Yingqiang Ge, Juntao Tan, Yongfeng Zhang.\
+*ACM Transactions on Intelligent Systems and Technology (**ACM TIST**), 16(3), Article 51, 2025.*\
+[[paper](https://doi.org/10.1145/3714430)]
 
 **A Survey on Trustworthy Recommender Systems**\
 Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, Shuyuan Xu, Yunqi Li, Yikun Xian, Yongfeng Zhang.\
-*In Proceedings of the ACM Transactions on Recommender Systems (**ACM TORS**).*\
-[[paper](http://arxiv.org/abs/2207.12515)]
+*ACM Transactions on Recommender Systems (**ACM TORS**), 3(2), Article 13, 2025.*\
+[[paper](https://doi.org/10.1145/3652891)]
 
 ## 2024
 **IDGenRec: LLM-RecSys Alignment with Textual ID Learning**\
