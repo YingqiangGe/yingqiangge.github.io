@@ -12,7 +12,7 @@ redirect_from:
 
 ## About Me
 
-I'm Yingqiang Ge, an Applied Scientist at Amazon, leading work on agentic evaluation and self-evolving AI systems. My current work focuses on building evaluation frameworks and learning loops that help AI agents assess their own behavior, improve through feedback, and operate more reliably in complex real-world tasks.
+I'm Yingqiang Ge, an Applied Scientist at Amazon, leading work on agent evaluation and evolution. My current work focuses on building evaluation frameworks and learning loops that help AI agents assess their own behavior, improve through feedback, and operate more reliably in complex real-world tasks.
 
 I got my Ph.D. from [Rutgers University](https://www.rutgers.edu/) (2023, advised by [Prof. Yongfeng Zhang](http://yongfeng.me/)), where I worked on Trustworthy AI. During my PhD, I published extensively on fairness-aware recommendation, causal reasoning, and explainable AI at top venues including SIGIR, WSDM, WWW, ACL, and NeurIPS. I also co-created [OpenAGI](https://github.com/agiresearch/OpenAGI), an open-source research platform for LLM-based agents, and contributed to [P5](https://arxiv.org/abs/2203.13366), one of the early works on unifying recommendation as language processing.
 
