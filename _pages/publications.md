@@ -7,10 +7,7 @@ author_profile: true
 ## Preprints
 **Agent Harness Engineering: A Survey**\
 Junjie Li, Xi Xiao, Yunbei Zhang, Chen Liu, Lin Zhao, Xiaoying Liao, Yingrui Ji, Janet Wang, Jianyang Gu, Yingqiang Ge, Weijie Xu, Xi Fang, Xiang Xu, Tianchen Zhao, Youngeun Kim, Tianyang Wang, Jihun Hamm, Smita Krishnaswamy, Jun Huan, Chandan K. Reddy.\
-*Under review at Transactions on Machine Learning Research (**TMLR**).*\
 [[paper](https://openreview.net/forum?id=eONq7FdiHa)]
-[[project](https://picrew.github.io/LLM-Harness/)]
-[[code](https://github.com/Picrew/awesome-agent-harness)]
 
 **LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem**\
 Yingqiang Ge, Yujie Ren, Wenyue Hua, Shuyuan Xu, Juntao Tan, Yongfeng Zhang.\
