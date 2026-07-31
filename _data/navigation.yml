@@ -14,8 +14,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Radar"
-    url: /intelligence/
+  - title: "All We Need"
+    url: https://allweneed.info/
 
   # - title: "Talks"
   #   url: /talks/

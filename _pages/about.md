@@ -62,7 +62,7 @@ Obtuve mi doctorado en [Rutgers University](https://www.rutgers.edu/) (2023, dir
 <div data-i18n="en" markdown="1">
 
 ## News
-* 2026-07-28 Launched [Signal Radar](/intelligence/) — an AI, tech, and investment intelligence dashboard that cross-validates signals across a broad set of original sources.
+* 2026-07-28 Launched [All We Need](https://allweneed.info/) — an AI, tech, and investment intelligence product that cross-validates signals across a broad set of original sources.
 * 2026-05-16 Our paper "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems" has been accepted by KDD 2026.
 * 2026-05-14 Our survey "[Agent Harness Engineering: A Survey](https://picrew.github.io/LLM-Harness/)" is available on OpenReview.
 * 2026-04-19 Our paper "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning" received the **Best Short Paper Award** at AIWILD @ ICLR 2026.
@@ -109,7 +109,7 @@ Obtuve mi doctorado en [Rutgers University](https://www.rutgers.edu/) (2023, dir
 <div data-i18n="zh" markdown="1">
 
 ## 新闻动态
-* 2026-07-28 上线 [Signal Radar](/intelligence/)——一个跨信源交叉验证 AI、科技与投资信号的情报看板。
+* 2026-07-28 上线 [All We Need](https://allweneed.info/)——一个跨信源交叉验证 AI、科技与投资信号的情报产品。
 * 2026-05-16 论文 "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems" 被 KDD 2026 录用。
 * 2026-05-14 我们的综述 "[Agent Harness Engineering: A Survey](https://picrew.github.io/LLM-Harness/)" 已在 OpenReview 上线。
 * 2026-04-19 论文 "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning" 获 AIWILD @ ICLR 2026 **Best Short Paper Award**。
@@ -156,7 +156,7 @@ Obtuve mi doctorado en [Rutgers University](https://www.rutgers.edu/) (2023, dir
 <div data-i18n="ja" markdown="1">
 
 ## ニュース
-* 2026-07-28 [Signal Radar](/intelligence/) を公開しました。複数の情報源から AI・Tech・Investment シグナルをクロス検証するインテリジェンスダッシュボードです。
+* 2026-07-28 [All We Need](https://allweneed.info/) を公開しました。複数の情報源から AI・Tech・Investment シグナルをクロス検証するインテリジェンスプロダクトです。
 * 2026-05-16 論文 "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems" が KDD 2026 に採択。
 * 2026-05-14 サーベイ "[Agent Harness Engineering: A Survey](https://picrew.github.io/LLM-Harness/)" が OpenReview で公開。
 * 2026-04-19 論文 "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning" が AIWILD @ ICLR 2026 で **Best Short Paper Award** を受賞。
@@ -203,7 +203,7 @@ Obtuve mi doctorado en [Rutgers University](https://www.rutgers.edu/) (2023, dir
 <div data-i18n="ko" markdown="1">
 
 ## 소식
-* 2026-07-28 [Signal Radar](/intelligence/)를 공개했습니다. 다양한 원본 소스에서 AI, Tech, Investment 신호를 교차 검증하는 인텔리전스 대시보드입니다.
+* 2026-07-28 [All We Need](https://allweneed.info/)를 공개했습니다. 다양한 원본 소스에서 AI, Tech, Investment 신호를 교차 검증하는 인텔리전스 제품입니다.
 * 2026-05-16 논문 "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems"이 KDD 2026에 채택됨.
 * 2026-05-14 서베이 "[Agent Harness Engineering: A Survey](https://picrew.github.io/LLM-Harness/)"가 OpenReview에 공개됨.
 * 2026-04-19 논문 "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning"이 AIWILD @ ICLR 2026에서 **Best Short Paper Award** 수상.
@@ -250,7 +250,7 @@ Obtuve mi doctorado en [Rutgers University](https://www.rutgers.edu/) (2023, dir
 <div data-i18n="es" markdown="1">
 
 ## Noticias
-* 2026-07-28 Lanzamos [Signal Radar](/intelligence/), un panel de inteligencia que valida señales de AI, Tech e Investment a través de diversas fuentes originales.
+* 2026-07-28 Lanzamos [All We Need](https://allweneed.info/), un producto de inteligencia que valida señales de AI, Tech e Investment a través de diversas fuentes originales.
 * 2026-05-16 Nuestro articulo "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems" ha sido aceptado en KDD 2026.
 * 2026-05-14 Nuestro survey "[Agent Harness Engineering: A Survey](https://picrew.github.io/LLM-Harness/)" esta disponible en OpenReview.
 * 2026-04-19 Nuestro articulo "Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning" recibió el **Best Short Paper Award** en AIWILD @ ICLR 2026.
