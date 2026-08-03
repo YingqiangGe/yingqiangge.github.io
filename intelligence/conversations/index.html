@@ -1,20 +1,20 @@
 <!doctype html>
-<html lang="zh-CN">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/png" sizes="64x64" href="/intelligence/favicon.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="/intelligence/apple-touch-icon.png" />
-    <title>精选对谈 — All We Need</title>
+    <title>Podcasts — All We Need</title>
     <meta
       name="description"
-      content="本周值得投入时间的 interviews、podcasts 与长对话精读。"
+      content="Concise notes on the week’s interviews, podcasts, and long-form conversations worth your time."
     />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="精选对谈 — All We Need" />
+    <meta property="og:title" content="Podcasts — All We Need" />
     <meta
       property="og:description"
-      content="用几分钟读完本周高质量 interviews、podcasts 与长对话的核心论点。"
+      content="Read the central ideas from the week’s best interviews, podcasts, and long-form conversations in minutes."
     />
     <meta
       property="og:image"
@@ -24,8 +24,42 @@
       rel="canonical"
       href="https://allweneed.info/conversations/"
     />
-    <script type="module" crossorigin src="/intelligence/assets/main-BoKjfLFD.js"></script>
-    <link rel="stylesheet" crossorigin href="/intelligence/assets/main-DYciKLPu.css">
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-8R17J8CJ1W"
+    ></script>
+    <script>
+      (() => {
+        const productionHosts = new Set([
+          "allweneed.info",
+          "www.allweneed.info",
+          "yingqiangge.github.io",
+        ]);
+        if (!productionHosts.has(window.location.hostname)) return;
+        window.dataLayer = window.dataLayer || [];
+        window.gtag =
+          window.gtag ||
+          function () {
+            window.dataLayer.push(arguments);
+          };
+        window.gtag("consent", "default", {
+          analytics_storage: navigator.globalPrivacyControl
+            ? "denied"
+            : "granted",
+          ad_storage: "denied",
+          ad_user_data: "denied",
+          ad_personalization: "denied",
+        });
+        window.gtag("js", new Date());
+        window.gtag("config", "G-8R17J8CJ1W", {
+          anonymize_ip: true,
+          send_page_view: false,
+        });
+        window.signalRadarAnalyticsReady = true;
+      })();
+    </script>
+    <script type="module" crossorigin src="/intelligence/assets/main-DEtUtkKf.js"></script>
+    <link rel="stylesheet" crossorigin href="/intelligence/assets/main-C0kH_Tlc.css">
   </head>
   <body>
     <div id="root"></div>

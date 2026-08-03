@@ -1,20 +1,20 @@
 <!doctype html>
-<html lang="zh-CN">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/png" sizes="64x64" href="/intelligence/favicon.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="/intelligence/apple-touch-icon.png" />
-    <title>探索 — All We Need</title>
+    <title>Explore — All We Need</title>
     <meta
       name="description"
-      content="发现非共识判断、二阶影响与仍在形成中的 AI、科技与投资信号。"
+      content="Discover non-consensus theses, second-order effects, and early AI, technology, and investment signals."
     />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="探索 — All We Need" />
+    <meta property="og:title" content="Explore — All We Need" />
     <meta
       property="og:description"
-      content="发现非共识判断、二阶影响与仍在形成中的早期信号。"
+      content="Look beyond consensus for second-order effects and early signals still taking shape."
     />
     <meta
       property="og:image"
@@ -24,8 +24,42 @@
       rel="canonical"
       href="https://allweneed.info/explore/"
     />
-    <script type="module" crossorigin src="/intelligence/assets/main-BoKjfLFD.js"></script>
-    <link rel="stylesheet" crossorigin href="/intelligence/assets/main-DYciKLPu.css">
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-8R17J8CJ1W"
+    ></script>
+    <script>
+      (() => {
+        const productionHosts = new Set([
+          "allweneed.info",
+          "www.allweneed.info",
+          "yingqiangge.github.io",
+        ]);
+        if (!productionHosts.has(window.location.hostname)) return;
+        window.dataLayer = window.dataLayer || [];
+        window.gtag =
+          window.gtag ||
+          function () {
+            window.dataLayer.push(arguments);
+          };
+        window.gtag("consent", "default", {
+          analytics_storage: navigator.globalPrivacyControl
+            ? "denied"
+            : "granted",
+          ad_storage: "denied",
+          ad_user_data: "denied",
+          ad_personalization: "denied",
+        });
+        window.gtag("js", new Date());
+        window.gtag("config", "G-8R17J8CJ1W", {
+          anonymize_ip: true,
+          send_page_view: false,
+        });
+        window.signalRadarAnalyticsReady = true;
+      })();
+    </script>
+    <script type="module" crossorigin src="/intelligence/assets/main-DEtUtkKf.js"></script>
+    <link rel="stylesheet" crossorigin href="/intelligence/assets/main-C0kH_Tlc.css">
   </head>
   <body>
     <div id="root"></div>
