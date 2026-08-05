@@ -1,67 +1,20 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/png" sizes="64x64" href="/intelligence/favicon.png" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/intelligence/apple-touch-icon.png" />
-    <title>Explore — All We Need</title>
-    <meta
-      name="description"
-      content="Discover non-consensus theses, second-order effects, and early AI, technology, and investment signals."
-    />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Explore — All We Need" />
-    <meta
-      property="og:description"
-      content="Look beyond consensus for second-order effects and early signals still taking shape."
-    />
-    <meta
-      property="og:image"
-      content="https://allweneed.info/og.png"
-    />
-    <link
-      rel="canonical"
-      href="https://allweneed.info/explore/"
-    />
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-8R17J8CJ1W"
-    ></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex,follow" />
+    <meta http-equiv="refresh" content="0; url=https://allweneed.info/explore/" />
+    <link rel="canonical" href="https://allweneed.info/explore/" />
+    <title>All We Need</title>
     <script>
-      (() => {
-        const productionHosts = new Set([
-          "allweneed.info",
-          "www.allweneed.info",
-          "yingqiangge.github.io",
-        ]);
-        if (!productionHosts.has(window.location.hostname)) return;
-        window.dataLayer = window.dataLayer || [];
-        window.gtag =
-          window.gtag ||
-          function () {
-            window.dataLayer.push(arguments);
-          };
-        window.gtag("consent", "default", {
-          analytics_storage: navigator.globalPrivacyControl
-            ? "denied"
-            : "granted",
-          ad_storage: "denied",
-          ad_user_data: "denied",
-          ad_personalization: "denied",
-        });
-        window.gtag("js", new Date());
-        window.gtag("config", "G-8R17J8CJ1W", {
-          anonymize_ip: true,
-          send_page_view: false,
-        });
-        window.signalRadarAnalyticsReady = true;
-      })();
+      const target = new URL("https://allweneed.info/explore/");
+      target.search = window.location.search;
+      target.hash = window.location.hash;
+      window.location.replace(target);
     </script>
-    <script type="module" crossorigin src="/intelligence/assets/main-v8vyAZ4U.js"></script>
-    <link rel="stylesheet" crossorigin href="/intelligence/assets/main-CB601EmU.css">
   </head>
   <body>
-    <div id="root"></div>
+    <p>Continue to <a href="https://allweneed.info/explore/">All We Need</a>.</p>
   </body>
 </html>
