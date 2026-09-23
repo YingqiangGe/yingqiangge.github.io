@@ -12,7 +12,7 @@ redirect_from:
 
 ## About Me
 
-I'm Yingqiang Ge, an Applied Scientist at Amazon, leading work on agent evaluation and evolution. My current work focuses on building evaluation frameworks and learning loops that help AI agents assess their own behavior, improve through feedback, and operate more reliably in complex real-world tasks.
+I'm Yingqiang Ge, an Applied Scientist at Amazon, leading work on agent evaluation and evolution. My current work focuses on building evaluation frameworks and learning loops that help AI agents assess their own behavior and improve through feedback. I also work on meta-learning methods that help models adapt to out-of-distribution (OOD) settings, with the broader goal of making AI systems more adaptable and reliable in complex real-world tasks.
 
 I got my Ph.D. from [Rutgers University](https://www.rutgers.edu/) (2023, advised by [Prof. Yongfeng Zhang](http://yongfeng.me/)), where I worked on Trustworthy AI. During my PhD, I published extensively on fairness-aware recommendation, causal reasoning, and explainable AI at top venues including SIGIR, WSDM, WWW, ACL, and NeurIPS. I also co-created [OpenAGI](https://github.com/agiresearch/OpenAGI), an open-source research platform for LLM-based agents, and contributed to [P5](https://arxiv.org/abs/2203.13366), one of the early works on unifying recommendation as language processing.
 
@@ -22,7 +22,7 @@ I got my Ph.D. from [Rutgers University](https://www.rutgers.edu/) (2023, advise
 
 ## 关于我
 
-我是葛英强，目前在Amazon担任应用科学家，负责智能体评测和自演化AI系统相关工作。当前我的工作重点是构建评测框架和学习闭环，帮助AI智能体评估自身行为、基于反馈持续改进，并在复杂的真实世界任务中更可靠地运行。
+我是葛英强，目前在Amazon担任应用科学家，负责智能体评测和自演化AI系统相关工作。当前我的工作重点是构建评测框架和学习闭环，帮助AI智能体评估自身行为，并通过反馈持续改进。我也研究元学习（meta-learning）方法，帮助模型适应分布外（OOD）场景，整体目标是提升AI系统在复杂真实世界任务中的适应性和可靠性。
 
 我在[Rutgers University](https://www.rutgers.edu/)获得博士学位（2023年，导师：[张永锋教授](http://yongfeng.me/)），博士期间主要研究可信AI。读博期间，我在SIGIR、WSDM、WWW、ACL、NeurIPS等顶会上发表了多篇关于公平推荐、因果推理和可解释AI的论文。我参与创建了[OpenAGI](https://github.com/agiresearch/OpenAGI)（基于LLM的智能体开源研究平台），并参与了[P5](https://arxiv.org/abs/2203.13366)（将推荐统一为语言处理任务的早期工作之一）。
 
@@ -32,7 +32,7 @@ I got my Ph.D. from [Rutgers University](https://www.rutgers.edu/) (2023, advise
 
 ## 自己紹介
 
-葛英強（Yingqiang Ge）と申します。現在Amazonで応用科学者として、エージェント評価と自己進化型AIシステムに関する研究開発をリードしています。現在の仕事では、AIエージェントが自らの行動を評価し、フィードバックから改善し、複雑な実世界タスクでより信頼性高く動作できるようにするための評価フレームワークと学習ループの構築に取り組んでいます。
+葛英強（Yingqiang Ge）と申します。現在Amazonで応用科学者として、エージェント評価と自己進化型AIシステムに関する研究開発をリードしています。現在は、AIエージェントが自らの行動を評価し、フィードバックを通じて改善するための評価フレームワークと学習ループの構築に取り組んでいます。また、モデルが分布外（OOD）の状況に適応するためのメタ学習手法も研究しています。これらを通じて、複雑な実世界タスクにおけるAIシステムの適応性と信頼性を高めることを目指しています。
 
 2023年に[Rutgers University](https://www.rutgers.edu/)で博士号を取得しました（指導教員：[張永鋒教授](http://yongfeng.me/)）。博士課程では信頼性の高いAIを研究しました。博士課程では、SIGIR、WSDM、WWW、ACL、NeurIPSなどのトップ会議で、公平性を考慮した推薦、因果推論、説明可能なAIに関する論文を多数発表しました。[OpenAGI](https://github.com/agiresearch/OpenAGI)（LLMベースのエージェント研究プラットフォーム）の共同開発や、[P5](https://arxiv.org/abs/2203.13366)（推薦を言語処理として統合する初期の研究）にも貢献しました。
 
@@ -42,7 +42,7 @@ I got my Ph.D. from [Rutgers University](https://www.rutgers.edu/) (2023, advise
 
 ## 소개
 
-저는 거잉창(Yingqiang Ge)이며, 현재 Amazon에서 응용 과학자로 일하며 에이전트 평가와 자기 진화형 AI 시스템 관련 업무를 이끌고 있습니다. 현재는 AI 에이전트가 자신의 행동을 평가하고, 피드백을 통해 개선하며, 복잡한 실제 작업에서 더 안정적으로 작동할 수 있도록 하는 평가 프레임워크와 학습 루프를 구축하는 데 집중하고 있습니다.
+저는 거잉창(Yingqiang Ge)이며, 현재 Amazon에서 응용 과학자로 일하며 에이전트 평가와 자기 진화형 AI 시스템 관련 업무를 이끌고 있습니다. 현재는 AI 에이전트가 자신의 행동을 평가하고 피드백을 통해 개선할 수 있도록 평가 프레임워크와 학습 루프를 구축하는 데 집중하고 있습니다. 또한 모델이 분포 외(OOD) 환경에 적응하도록 돕는 메타 학습 방법을 연구하고 있습니다. 이를 통해 복잡한 실제 작업에서 AI 시스템의 적응성과 신뢰성을 높이는 것을 목표로 합니다.
 
 저는 2023년 [Rutgers University](https://www.rutgers.edu/)에서 박사 학위를 취득했습니다 (지도교수: [장융펑 교수](http://yongfeng.me/)). 박사 과정에서는 신뢰할 수 있는 AI를 연구했습니다. 박사 과정 동안 SIGIR, WSDM, WWW, ACL, NeurIPS 등 주요 학회에서 공정성 기반 추천, 인과 추론, 설명 가능한 AI에 관한 다수의 논문을 발표했습니다. [OpenAGI](https://github.com/agiresearch/OpenAGI)(LLM 기반 에이전트 연구 플랫폼)를 공동 개발하고, [P5](https://arxiv.org/abs/2203.13366)(추천을 언어 처리로 통합하는 초기 연구)에 기여했습니다.
 
@@ -52,7 +52,7 @@ I got my Ph.D. from [Rutgers University](https://www.rutgers.edu/) (2023, advise
 
 ## Sobre mi
 
-Soy Yingqiang Ge, Cientifico Aplicado en Amazon, liderando trabajos sobre evaluacion agentica y sistemas de IA autoevolutivos. Mi trabajo actual se centra en construir marcos de evaluacion y ciclos de aprendizaje que ayuden a los agentes de IA a evaluar su propio comportamiento, mejorar mediante retroalimentacion y operar de forma mas confiable en tareas complejas del mundo real.
+Soy Yingqiang Ge, Cientifico Aplicado en Amazon, liderando trabajos sobre evaluacion agentica y sistemas de IA autoevolutivos. Mi trabajo actual se centra en construir marcos de evaluación y ciclos de aprendizaje que ayuden a los agentes de IA a evaluar su propio comportamiento y mejorar mediante retroalimentación. También trabajo en métodos de metaaprendizaje que ayudan a los modelos a adaptarse a escenarios fuera de distribución (OOD), con el objetivo más amplio de hacer que los sistemas de IA sean más adaptables y fiables en tareas complejas del mundo real.
 
 Obtuve mi doctorado en [Rutgers University](https://www.rutgers.edu/) (2023, dirigido por el [Prof. Yongfeng Zhang](http://yongfeng.me/)), donde investigue sobre IA confiable. Durante mi doctorado, publique extensamente sobre recomendacion con equidad, razonamiento causal e IA explicable en conferencias de primer nivel como SIGIR, WSDM, WWW, ACL y NeurIPS. Tambien co-cree [OpenAGI](https://github.com/agiresearch/OpenAGI), una plataforma de investigacion de codigo abierto para agentes basados en LLM, y contribui a [P5](https://arxiv.org/abs/2203.13366), uno de los primeros trabajos en unificar la recomendacion como procesamiento de lenguaje.
 

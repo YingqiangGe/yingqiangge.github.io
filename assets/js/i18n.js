@@ -42,10 +42,43 @@
     }
   }
 
-  function setLang(lang) {
-    document.querySelectorAll('[data-i18n]').forEach(el => {
-      el.style.display = el.getAttribute('data-i18n') === lang ? '' : 'none';
+  // Adjacent translations form a group. A repeated language starts the next
+  // section (for example, About Me followed by News on the homepage).
+  function translationGroups() {
+    const groups = [];
+    const parents = new Set(Array.from(document.querySelectorAll('[data-i18n]'), el => el.parentElement));
+    parents.forEach(parent => {
+      let group = [];
+      let languages = new Set();
+      Array.from(parent.children).forEach(el => {
+        const language = el.getAttribute('data-i18n');
+        if (!language || languages.has(language)) {
+          if (group.length) groups.push(group);
+          group = [];
+          languages = new Set();
+        }
+        if (language) {
+          group.push(el);
+          languages.add(language);
+        }
+      });
+      if (group.length) groups.push(group);
     });
+    return groups;
+  }
+
+  function setLang(lang) {
+    if (!LABELS[lang]) lang = 'en';
+    translationGroups().forEach(group => {
+      const selected = group.find(el => el.getAttribute('data-i18n') === lang)
+        || group.find(el => el.getAttribute('data-i18n') === 'en')
+        || group[0];
+      group.forEach(el => {
+        el.hidden = el !== selected;
+        el.lang = el.getAttribute('data-i18n');
+      });
+    });
+    document.documentElement.setAttribute('data-i18n-ready', 'true');
     var label = document.getElementById('lang-label');
     if (label) label.textContent = LABELS[lang] || lang.toUpperCase();
     rememberLang(lang);

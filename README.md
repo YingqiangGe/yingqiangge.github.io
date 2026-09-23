@@ -1,96 +1,146 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Yingqiang Ge's Homepage
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
+Personal academic website for Yingqiang Ge, hosted at https://yingqiangge.github.io.
+Built with Jekyll 4.3 and customized from Academic Pages / Minimal Mistakes.
 
-# Getting Started
+## Project structure
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+| Path | Purpose |
+| --- | --- |
+| `_pages/about.md` | Homepage biography and news |
+| `_pages/publications.md` | Maintained publication list |
+| `_pages/cv.md` | Multilingual CV; English block is the source for JSON CV generation |
+| `_posts/` | Blog posts with dated filenames and YAML front matter |
+| `_data/navigation.yml` | Header navigation |
+| `_data/cv.json` | Generated data for `/cv-json/` |
+| `_config.yml` | Site URL, author profile, theme, analytics, and Jekyll settings |
+| `_layouts/`, `_includes/` | Liquid layouts and shared page components |
+| `_sass/`, `assets/css/main.scss` | Theme, layout, and reading styles |
+| `assets/js/i18n.js` | Language selection and content fallback |
+| `assets/js/_main.js` | Navigation, light/dark theme, and optional chart loading |
+| `scripts/` | JavaScript asset and CV maintenance helpers |
+| `images/`, `files/` | Static images and downloadable files |
 
-See more info at https://academicpages.github.io/
+The `intelligence/` application has been removed from this repository. All We Need
+links in the navigation and news point to the separate `https://allweneed.info/`
+website; its source and deployment pipeline are not maintained here.
 
-## Running locally
+Some upstream sample pages and collections remain (`_talks/`, `_teaching/`,
+`_portfolio/`, and the Markdown guide). They are not used to populate the JSON CV.
+Removing a page from navigation does not prevent Jekyll from publishing it.
 
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+## Local preview
 
-1. Clone the repository and made updates as detailed above.
-
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
-
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
-
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change to Markdown (*.md) and HTML files, while changes to the core template and configuration (i.e., `_config.yml`) will require stoping and restarting Jekyll.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
-
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
-
-## Using Docker
-
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
-
-You can build and execute the container by running the following command in the repository:
+Install Ruby with Bundler. JavaScript builds require Node.js 18 or newer and npm;
+CV generation requires Python 3 and PyYAML. Existing committed JavaScript assets
+can be served without installing npm dependencies.
 
 ```bash
-chmod -R 777 .
-docker compose up
+bundle install
+bundle exec jekyll serve --config _config.yml,_config_docker.yml --host 127.0.0.1 --port 4000
 ```
 
-You should now be able to access the website from `localhost:4000`.
+Open http://127.0.0.1:4000. `_config_docker.yml` enables local preview with relative
+site paths, so assets and icon fonts use the same host whether you visit
+`127.0.0.1` or `localhost`. Restart Jekyll after changing configuration files. `npm run serve:local`
+is an alias for the same command and does not require rbenv.
 
-### Using the DevContainer in VS Code
+A container-based preview is also available:
 
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development container configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
+```bash
+docker compose up --build
+```
 
-# Maintenance
+## Editing content and languages
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+Write page and post content in Markdown with YAML front matter. Maintain the
+publication list directly in `_pages/publications.md`; it is not generated from
+an `_publications/` collection.
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+The language switcher supports English (`en`), Chinese (`zh`), Japanese (`ja`),
+Korean (`ko`), and Spanish (`es`). Translations sit next to each other:
 
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
-
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
-
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
+```html
+<div data-i18n="en" markdown="1">
+English content.
 </div>
+<div data-i18n="zh" markdown="1">
+中文内容。
+</div>
+```
+
+Each consecutive set of language blocks is one translation group. A repeated
+language or a non-language element starts a new group. Keep the same language
+order, starting with English, when adding translated sections such as biography
+and news. Each group displays the selected language, then English if unavailable,
+then its first available language. Content without `data-i18n` is always shown.
+
+The chosen interface language is saved in local storage; falling back to English
+content does not change that preference. Without JavaScript, English blocks
+remain visible. Navigation and sidebar translations live in `assets/js/i18n.js`.
+
+## Updating the JSON CV
+
+Edit `_pages/cv.md` and author information in `_config.yml`, then regenerate:
+
+```bash
+python3 -m venv /tmp/homepage-cv-venv
+/tmp/homepage-cv-venv/bin/pip install PyYAML
+/tmp/homepage-cv-venv/bin/python scripts/cv_markdown_to_json.py
+```
+
+Alternatively, `bash scripts/update_cv_json.sh` uses `python3` from your PATH.
+The converter reads the English CV's Education, Experience, Service and leadership,
+and Awards sections. Keep the existing Setext headings and top-level/nested bullet
+structure. Education uses year ranges; work dates retain the wording in the CV.
+Unrecognized education or work entries fail the command instead of being silently
+omitted. Commit `_data/cv.json` together with its source changes.
+
+`/cv-json/` renders the generated data and links to the multilingual CV and full
+publication list. It does not import the upstream sample talks, teaching, or
+portfolio entries. No downloadable CV PDF is currently provided.
+
+## JavaScript and charts
+
+After changing `_main.js`, navigation plugins, or JavaScript dependencies:
+
+```bash
+npm install
+npm run build:js
+```
+
+Commit the rebuilt `assets/js/main.min.js` and `assets/js/plotly.min.js` when they
+change. `npm run watch:js` rebuilds on JavaScript edits and ignores generated files.
+`i18n.js`, `plotly.js`, and `theme.js` are served directly.
+
+The shared bundle includes jQuery, FitVids, smooth scrolling, and site behavior.
+Only pages containing a fenced `plotly` code block dynamically load `plotly.js`,
+its theme definitions, and the separately hosted `plotly.min.js` library. Normal
+pages do not download Plotly. Charts follow light/dark theme changes; if loading
+or rendering fails, the original code block stays visible.
+
+## Validation and publishing
+
+Before publishing, regenerate any changed assets/data and build the site:
+
+```bash
+bundle exec jekyll build
+```
+
+Preview the homepage, CV, blog, language fallback on an English-only post, and
+charts at `/markdown/` when changing their associated code. Build output is in
+`_site/` and is ignored by Git.
+
+This repository targets GitHub Pages. Publishing depends on the branch/source
+selected in the repository's **Settings → Pages**; check the Pages deployment
+result after pushing. The only checked-in workflow, `scrape_talks.yml`, updates
+talk-map data and is not the site's deployment workflow. GitHub Pages does not
+run this project's npm or Python maintenance scripts automatically, so generated
+JavaScript assets and JSON CV data must be committed.
+
+## Attribution
+
+Based on [Academic Pages](https://github.com/academicpages/academicpages.github.io),
+itself derived from [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes).
+See `LICENSE` for the MIT license. Plotly's distributed bundle retains its own
+license header.

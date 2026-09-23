@@ -46,17 +46,13 @@
 
 /*
  * i18n fallback: pages render all language blocks in the HTML, then
- * assets/js/i18n.js switches visibility. Hide non-selected blocks before JS
- * runs so the homepage never flashes every translation at once.
+ * Show English until the switcher selects an available translation per group.
+ * This also keeps English content readable when JavaScript is disabled.
  */
-html:not([data-site-lang]) [data-i18n]:not([data-i18n="en"]) {
+html:not([data-i18n-ready]) [data-i18n]:not([data-i18n="en"]) {
   display: none;
 }
 
-html[data-site-lang="en"] [data-i18n]:not([data-i18n="en"]),
-html[data-site-lang="zh"] [data-i18n]:not([data-i18n="zh"]),
-html[data-site-lang="ja"] [data-i18n]:not([data-i18n="ja"]),
-html[data-site-lang="ko"] [data-i18n]:not([data-i18n="ko"]),
-html[data-site-lang="es"] [data-i18n]:not([data-i18n="es"]) {
+[data-i18n][hidden] {
   display: none;
 }
